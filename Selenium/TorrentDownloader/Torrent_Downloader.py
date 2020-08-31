@@ -8,6 +8,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.options import Options
 
 from tkinter import *
 from tkinter import ttk, filedialog
@@ -52,15 +53,24 @@ class Interface:
 
 
 class Torrent:
-    PATH = ""  # path to chrome web driver
-    VPN = ""  # path to psiphon vpn
+    PATH = ""  # Path to Chrome Driver
+    VPN = ""  # Path to Psiphon VPN
 
     def __init__(self):
         global driver, vpn_handler
         vpn_handler = subprocess.Popen(self.VPN)
-        time.sleep(10)
-        driver = webdriver.Chrome(self.PATH)
+        time.sleep(15)
+
+        options = Options()  # options for headless browser
+        options.headless = True
+
+        driver = webdriver.Chrome(self.PATH, options=options)
         driver.maximize_window()
+
+        notification.notify(
+            "Chrome Initiated", "Headless Chrome Successfully Initiated!", timeout=60
+        )
+
         driver.get("https://www.limetorrents.info/")  # Dont change
 
     def download_queue(self):
@@ -91,7 +101,7 @@ class Torrent:
 
         print(search_query)
         notification.notify(
-            "Magnet Links", "Found Maget Links....Iniatiating uTorrentWeb!", timeout=10
+            "Magnet Links", "Found Maget Links....Iniatiating uTorrentWeb!", timeout=60
         )
 
     def get_torrent(self, search_query):
@@ -117,6 +127,7 @@ class Torrent:
                 .until(EC.presence_of_element_located((By.TAG_NAME, "h1")))
                 .text
             )
+            print(title)
             if not title.startswith(series):
                 raise Exception
 
@@ -126,31 +137,35 @@ class Torrent:
                 size = driver.find_element_by_css_selector(
                     "#content > div:nth-child(7) > div:nth-child(1) > div > table > tbody > tr:nth-child(3) > td:nth-child(2)"
                 ).text
+
             except:
                 size = driver.find_element_by_css_selector(
                     "#content > div:nth-child(6) > div:nth-child(1) > div > table > tbody > tr:nth-child(3) > td:nth-child(2)"
                 ).text
+            print(size)
 
             try:
                 magnet_download = driver.find_element_by_css_selector(
                     "#content > div:nth-child(7) > div:nth-child(1) > div > div:nth-child(13) > div > p > a"
-                ).magnet_download.get_attribute("href")
+                ).get_attribute("href")
+
             except:
                 magnet_download = driver.find_element_by_css_selector(
                     "#content > div:nth-child(6) > div:nth-child(1) > div > div:nth-child(13) > div > p > a"
                 ).get_attribute("href")
-
-            print(title, size, magnet_download)
+            print(magnet_download)
+            print()
             return title, size, magnet_download
 
         except Exception as e:
             print(e)
             driver.quit()
+            vpn_handler.kill()
 
 
 class uTorrentWeb:
     def __init__(self):
-        driver.get("")  # localhost address of utorrentWeb
+        driver.get("")  # LocalHost address of uTorrentWeb
         driver.implicitly_wait(100)
 
     def send_link(self):
@@ -174,7 +189,7 @@ class uTorrentWeb:
             add_url = driver.find_element_by_id("add-torrent-url-btn")
             add_url.click()
 
-            notification.notify(title, f"File Size:{size}\nDownload starts", timeout=10)
+            notification.notify(title, f"File Size:{size}\nDownload starts", timeout=60)
 
             while True:
                 percentage = int(
@@ -183,6 +198,11 @@ class uTorrentWeb:
                     ).text[:-1]
                 )
                 if percentage >= 75:
+                    notification.notify(
+                        "Download Complete 75%",
+                        "Next Download starts if in queue",
+                        timeout=60,
+                    )
                     break
 
 
