@@ -11,6 +11,12 @@ When given with the accurate Series/Movie name, the script downloads the specifi
 
 ### Language Used: Python
 
+#### Packages Required
+
+- pip install selenium
+
+- pip install plyer
+
 ### Lines Modification Needed
 
 - [x] Line 56 - Path to chrome driver
