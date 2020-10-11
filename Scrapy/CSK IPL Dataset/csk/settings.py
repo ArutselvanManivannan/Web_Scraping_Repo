@@ -88,4 +88,4 @@ ROBOTSTXT_OBEY = True
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 ITEM_PIPELINES = {'scrapy.pipelines.images.ImagesPipeline': 1}
-IMAGES_STORE = 'E:/REC/Projects/Scrapy/Data/Images'
+IMAGES_STORE = '' # directory where the images should be stored
