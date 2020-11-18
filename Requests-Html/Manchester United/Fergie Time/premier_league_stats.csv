@@ -1,0 +1,2153 @@
+match_id,position,year,opponent,ha,scoreline,diff,attendance,league_position,result
+1,0,1992–93,Sheffield United,A,1–2,1,"28,070",19th,lose
+1,0.01,1992–93,Sheffield United,A,1–2,1,"28,070",19th,lose
+2,0,1992–93,Everton,H,0–3,3,"31,901",22nd,lose
+2,0.01,1992–93,Everton,H,0–3,3,"31,901",22nd,lose
+3,0,1992–93,Ipswich Town,H,1–1,0,"31,704",20th,draw
+3,0.01,1992–93,Ipswich Town,H,1–1,0,"31,704",20th,draw
+4,0,1992–93,Southampton,A,1–0,1,"15,623",11th,win
+4,0.01,1992–93,Southampton,A,1–0,1,"15,623",11th,win
+5,0,1992–93,Nottingham Forest,A,2–0,2,"19,694",8th,win
+5,0.01,1992–93,Nottingham Forest,A,2–0,2,"19,694",8th,win
+6,0,1992–93,Crystal Palace,H,1–0,1,"29,736",6th,win
+6,0.01,1992–93,Crystal Palace,H,1–0,1,"29,736",6th,win
+7,0,1992–93,Leeds United,H,2–0,2,"31,296",4th,win
+7,0.01,1992–93,Leeds United,H,2–0,2,"31,296",4th,win
+8,0,1992–93,Everton,A,2–0,2,"30,002",3rd,win
+8,0.01,1992–93,Everton,A,2–0,2,"30,002",3rd,win
+9,0,1992–93,Tottenham Hotspur,A,1–1,0,"33,296",4th,draw
+9,0.01,1992–93,Tottenham Hotspur,A,1–1,0,"33,296",4th,draw
+10,0,1992–93,Queens Park Rangers,H,0–0,0,"33,287",4th,draw
+10,0.01,1992–93,Queens Park Rangers,H,0–0,0,"33,287",4th,draw
+11,0,1992–93,Middlesbrough,A,1–1,0,"24,172",6th,draw
+11,0.01,1992–93,Middlesbrough,A,1–1,0,"24,172",6th,draw
+12,0,1992–93,Liverpool,H,2–2,0,"33,243",5th,draw
+12,0.01,1992–93,Liverpool,H,2–2,0,"33,243",5th,draw
+13,0,1992–93,Blackburn Rovers,A,0–0,0,"20,305",7th,draw
+13,0.01,1992–93,Blackburn Rovers,A,0–0,0,"20,305",7th,draw
+14,0,1992–93,Wimbledon,H,0–1,1,"32,622",7th,lose
+14,0.01,1992–93,Wimbledon,H,0–1,1,"32,622",7th,lose
+15,0,1992–93,Aston Villa,A,0–1,1,"39,063",10th,lose
+15,0.01,1992–93,Aston Villa,A,0–1,1,"39,063",10th,lose
+16,0,1992–93,Oldham Athletic,H,3–0,3,"33,497",8th,win
+16,0.01,1992–93,Oldham Athletic,H,3–0,3,"33,497",8th,win
+17,0,1992–93,Arsenal,A,1–0,1,"29,739",5th,win
+17,0.01,1992–93,Arsenal,A,1–0,1,"29,739",5th,win
+18,0,1992–93,Manchester City,H,2–1,1,"35,408",5th,win
+18,0.01,1992–93,Manchester City,H,2–1,1,"35,408",5th,win
+19,0,1992–93,Norwich City,H,1–0,1,"34,500",4th,win
+19,0.01,1992–93,Norwich City,H,1–0,1,"34,500",4th,win
+20,0,1992–93,Chelsea,A,1–1,0,"34,464",3rd,draw
+20,0.01,1992–93,Chelsea,A,1–1,0,"34,464",3rd,draw
+21,0,1992–93,Sheffield Wednesday,A,3–3,0,"37,708",2nd,draw
+21,0.01,1992–93,Sheffield Wednesday,A,3–3,0,"37,708",2nd,draw
+22,0,1992–93,Coventry City,H,5–0,5,"36,025",1st,win
+22,0.01,1992–93,Coventry City,H,5–0,5,"36,025",1st,win
+23,0,1992–93,Tottenham Hotspur,H,4–1,3,"35,648",1st,win
+23,0.01,1992–93,Tottenham Hotspur,H,4–1,3,"35,648",1st,win
+24,0,1992–93,Queens Park Rangers,A,3–1,2,"21,117",1st,win
+24,0.01,1992–93,Queens Park Rangers,A,3–1,2,"21,117",1st,win
+25,0,1992–93,Nottingham Forest,H,2–0,2,"36,085",2nd,win
+25,0.01,1992–93,Nottingham Forest,H,2–0,2,"36,085",2nd,win
+26,0,1992–93,Ipswich Town,A,1–2,1,"22,068",2nd,lose
+26,0.01,1992–93,Ipswich Town,A,1–2,1,"22,068",2nd,lose
+27,0,1992–93,Sheffield United,H,2–1,1,"36,156",1st,win
+27,0.01,1992–93,Sheffield United,H,2–1,1,"36,156",1st,win
+28,0,1992–93,Leeds United,A,0–0,0,"34,166",1st,draw
+28,0.01,1992–93,Leeds United,A,0–0,0,"34,166",1st,draw
+29,0,1992–93,Southampton,H,2–1,1,"36,257",2nd,win
+29,0.01,1992–93,Southampton,H,2–1,1,"36,257",2nd,win
+30,0,1992–93,Middlesbrough,H,3–0,3,"36,251",2nd,win
+30,0.01,1992–93,Middlesbrough,H,3–0,3,"36,251",2nd,win
+31,0,1992–93,Liverpool,A,2–1,1,"44,374",1st,win
+31,0.01,1992–93,Liverpool,A,2–1,1,"44,374",1st,win
+32,0,1992–93,Oldham Athletic,A,0–1,1,"17,106",1st,lose
+32,0.01,1992–93,Oldham Athletic,A,0–1,1,"17,106",1st,lose
+33,0,1992–93,Aston Villa,H,1–1,0,"36,163",1st,draw
+33,0.01,1992–93,Aston Villa,H,1–1,0,"36,163",1st,draw
+34,0,1992–93,Manchester City,A,1–1,0,"37,136",2nd,draw
+34,0.01,1992–93,Manchester City,A,1–1,0,"37,136",2nd,draw
+35,0,1992–93,Arsenal,H,0–0,0,"37,301",3rd,draw
+35,0.01,1992–93,Arsenal,H,0–0,0,"37,301",3rd,draw
+36,0,1992–93,Norwich City,A,3–1,2,"20,582",2nd,win
+36,0.01,1992–93,Norwich City,A,3–1,2,"20,582",2nd,win
+37,0,1992–93,Sheffield Wednesday,H,2–1,1,"40,102",1st,win
+37,0.01,1992–93,Sheffield Wednesday,H,2–1,1,"40,102",1st,win
+38,0,1992–93,Coventry City,A,1–0,1,"24,249",1st,win
+38,0.01,1992–93,Coventry City,A,1–0,1,"24,249",1st,win
+39,0,1992–93,Chelsea,H,3–0,3,"40,139",1st,win
+39,0.01,1992–93,Chelsea,H,3–0,3,"40,139",1st,win
+40,0,1992–93,Crystal Palace,A,2–0,2,"30,115",1st,win
+40,0.01,1992–93,Crystal Palace,A,2–0,2,"30,115",1st,win
+41,0,1992–93,Blackburn Rovers,H,3–1,2,"40,447",1st,win
+41,0.01,1992–93,Blackburn Rovers,H,3–1,2,"40,447",1st,win
+42,0,1992–93,Wimbledon,A,2–1,1,"30,115",1st,win
+42,0.01,1992–93,Wimbledon,A,2–1,1,"30,115",1st,win
+43,0,1993–94,Norwich City,A,2–0,2,"19,705",5th,win
+43,0.01,1993–94,Norwich City,A,2–0,2,"19,705",5th,win
+44,0,1993–94,Sheffield United,H,3–0,3,"41,949",1st,win
+44,0.01,1993–94,Sheffield United,H,3–0,3,"41,949",1st,win
+45,0,1993–94,Newcastle United,H,1–1,0,"41,829",3rd,draw
+45,0.01,1993–94,Newcastle United,H,1–1,0,"41,829",3rd,draw
+46,0,1993–94,Aston Villa,A,2–1,1,"39,624",1st,win
+46,0.01,1993–94,Aston Villa,A,2–1,1,"39,624",1st,win
+47,0,1993–94,Southampton,A,3–1,2,"16,189",1st,win
+47,0.01,1993–94,Southampton,A,3–1,2,"16,189",1st,win
+48,0,1993–94,West Ham United,H,3–0,3,"44,613",1st,win
+48,0.01,1993–94,West Ham United,H,3–0,3,"44,613",1st,win
+49,0,1993–94,Chelsea,A,0–1,1,"37,064",1st,lose
+49,0.01,1993–94,Chelsea,A,0–1,1,"37,064",1st,lose
+50,0,1993–94,Arsenal,H,1–0,1,"44,009",1st,win
+50,0.01,1993–94,Arsenal,H,1–0,1,"44,009",1st,win
+51,0,1993–94,Swindon Town,H,4–2,2,"44,583",1st,win
+51,0.01,1993–94,Swindon Town,H,4–2,2,"44,583",1st,win
+52,0,1993–94,Sheffield Wednesday,A,3–2,1,"34,548",1st,win
+52,0.01,1993–94,Sheffield Wednesday,A,3–2,1,"34,548",1st,win
+53,0,1993–94,Tottenham Hotspur,H,2–1,1,"44,655",1st,win
+53,0.01,1993–94,Tottenham Hotspur,H,2–1,1,"44,655",1st,win
+54,0,1993–94,Everton,A,1–0,1,"35,430",1st,win
+54,0.01,1993–94,Everton,A,1–0,1,"35,430",1st,win
+55,0,1993–94,Queens Park Rangers,H,2–1,1,"44,663",1st,win
+55,0.01,1993–94,Queens Park Rangers,H,2–1,1,"44,663",1st,win
+56,0,1993–94,Manchester City,A,3–2,1,"35,155",1st,win
+56,0.01,1993–94,Manchester City,A,3–2,1,"35,155",1st,win
+57,0,1993–94,Wimbledon,H,3–1,2,"44,748",1st,win
+57,0.01,1993–94,Wimbledon,H,3–1,2,"44,748",1st,win
+58,0,1993–94,Ipswich Town,H,0–0,0,"43,300",1st,draw
+58,0.01,1993–94,Ipswich Town,H,0–0,0,"43,300",1st,draw
+59,0,1993–94,Coventry City,A,1–0,1,"17,020",1st,win
+59,0.01,1993–94,Coventry City,A,1–0,1,"17,020",1st,win
+60,0,1993–94,Norwich City,H,2–2,0,"44,694",1st,draw
+60,0.01,1993–94,Norwich City,H,2–2,0,"44,694",1st,draw
+61,0,1993–94,Sheffield United,A,3–0,3,"26,746",1st,win
+61,0.01,1993–94,Sheffield United,A,3–0,3,"26,746",1st,win
+62,0,1993–94,Newcastle United,A,1–1,0,"36,388",1st,draw
+62,0.01,1993–94,Newcastle United,A,1–1,0,"36,388",1st,draw
+63,0,1993–94,Aston Villa,H,3–1,2,"44,499",1st,win
+63,0.01,1993–94,Aston Villa,H,3–1,2,"44,499",1st,win
+64,0,1993–94,Blackburn Rovers,H,1–1,0,"44,511",1st,draw
+64,0.01,1993–94,Blackburn Rovers,H,1–1,0,"44,511",1st,draw
+65,0,1993–94,Oldham Athletic,A,5–2,3,"16,708",1st,win
+65,0.01,1993–94,Oldham Athletic,A,5–2,3,"16,708",1st,win
+66,0,1993–94,Leeds United,H,0–0,0,"44,724",1st,draw
+66,0.01,1993–94,Leeds United,H,0–0,0,"44,724",1st,draw
+67,0,1993–94,Liverpool,A,3–3,0,"42,795",1st,draw
+67,0.01,1993–94,Liverpool,A,3–3,0,"42,795",1st,draw
+68,0,1993–94,Tottenham Hotspur,A,1–0,1,"31,343",1st,win
+68,0.01,1993–94,Tottenham Hotspur,A,1–0,1,"31,343",1st,win
+69,0,1993–94,Everton,H,1–0,1,"44,750",1st,win
+69,0.01,1993–94,Everton,H,1–0,1,"44,750",1st,win
+70,0,1993–94,Queens Park Rangers,A,3–2,1,"21,267",1st,win
+70,0.01,1993–94,Queens Park Rangers,A,3–2,1,"21,267",1st,win
+71,0,1993–94,West Ham United,A,2–2,0,"28,832",1st,draw
+71,0.01,1993–94,West Ham United,A,2–2,0,"28,832",1st,draw
+72,0,1993–94,Chelsea,H,0–1,1,"44,745",1st,lose
+72,0.01,1993–94,Chelsea,H,0–1,1,"44,745",1st,lose
+73,0,1993–94,Sheffield Wednesday,H,5–0,5,"43,669",1st,win
+73,0.01,1993–94,Sheffield Wednesday,H,5–0,5,"43,669",1st,win
+74,0,1993–94,Swindon Town,A,2–2,0,"18,102",1st,draw
+74,0.01,1993–94,Swindon Town,A,2–2,0,"18,102",1st,draw
+75,0,1993–94,Arsenal,A,2–2,0,"36,203",1st,draw
+75,0.01,1993–94,Arsenal,A,2–2,0,"36,203",1st,draw
+76,0,1993–94,Liverpool,H,1–0,1,"44,751",1st,win
+76,0.01,1993–94,Liverpool,H,1–0,1,"44,751",1st,win
+77,0,1993–94,Blackburn Rovers,A,0–2,2,"20,886",1st,lose
+77,0.01,1993–94,Blackburn Rovers,A,0–2,2,"20,886",1st,lose
+78,0,1993–94,Oldham Athletic,H,3–2,1,"44,686",1st,win
+78,0.01,1993–94,Oldham Athletic,H,3–2,1,"44,686",1st,win
+79,0,1993–94,Wimbledon,A,0–1,1,"28,553",1st,lose
+79,0.01,1993–94,Wimbledon,A,0–1,1,"28,553",1st,lose
+80,0,1993–94,Manchester City,H,2–0,2,"44,333",1st,win
+80,0.01,1993–94,Manchester City,H,2–0,2,"44,333",1st,win
+81,0,1993–94,Leeds United,A,2–0,2,"41,125",1st,win
+81,0.01,1993–94,Leeds United,A,2–0,2,"41,125",1st,win
+82,0,1993–94,Ipswich Town,A,2–1,1,"22,559",1st,win
+82,0.01,1993–94,Ipswich Town,A,2–1,1,"22,559",1st,win
+83,0,1993–94,Southampton,H,2–0,2,"44,705",1st,win
+83,0.01,1993–94,Southampton,H,2–0,2,"44,705",1st,win
+84,0,1993–94,Coventry City,H,0–0,0,"44,717",1st,draw
+84,0.01,1993–94,Coventry City,H,0–0,0,"44,717",1st,draw
+85,0,1994–95,Queens Park Rangers,H,2–0,2,"43,214",3rd,win
+85,0.01,1994–95,Queens Park Rangers,H,2–0,2,"43,214",3rd,win
+86,0,1994–95,Nottingham Forest,A,1–1,0,"22,072",1st,draw
+86,0.01,1994–95,Nottingham Forest,A,1–1,0,"22,072",1st,draw
+87,0,1994–95,Tottenham Hotspur,A,1–0,1,"24,502",3rd,win
+87,0.01,1994–95,Tottenham Hotspur,A,1–0,1,"24,502",3rd,win
+88,0,1994–95,Wimbledon,H,3–0,3,"43,440",2nd,win
+88,0.01,1994–95,Wimbledon,H,3–0,3,"43,440",2nd,win
+89,0,1994–95,Leeds United,A,1–2,1,"39,396",5th,lose
+89,0.01,1994–95,Leeds United,A,1–2,1,"39,396",5th,lose
+90,0,1994–95,Liverpool,H,2–0,2,"43,740",3rd,win
+90,0.01,1994–95,Liverpool,H,2–0,2,"43,740",3rd,win
+91,0,1994–95,Ipswich Town,A,2–3,1,"22,559",4th,lose
+91,0.01,1994–95,Ipswich Town,A,2–3,1,"22,559",4th,lose
+92,0,1994–95,Everton,H,2–0,2,"43,803",4th,win
+92,0.01,1994–95,Everton,H,2–0,2,"43,803",4th,win
+93,0,1994–95,Sheffield Wednesday,A,0–1,1,"33,441",5th,lose
+93,0.01,1994–95,Sheffield Wednesday,A,0–1,1,"33,441",5th,lose
+94,0,1994–95,West Ham United,H,1–0,1,"43,795",4th,win
+94,0.01,1994–95,West Ham United,H,1–0,1,"43,795",4th,win
+95,0,1994–95,Blackburn Rovers,A,4–2,2,"30,260",3rd,win
+95,0.01,1994–95,Blackburn Rovers,A,4–2,2,"30,260",3rd,win
+96,0,1994–95,Newcastle United,H,2–0,2,"43,795",3rd,win
+96,0.01,1994–95,Newcastle United,H,2–0,2,"43,795",3rd,win
+97,0,1994–95,Aston Villa,A,2–1,1,"32,136",3rd,win
+97,0.01,1994–95,Aston Villa,A,2–1,1,"32,136",3rd,win
+98,0,1994–95,Manchester City,H,5–0,5,"43,738",2nd,win
+98,0.01,1994–95,Manchester City,H,5–0,5,"43,738",2nd,win
+99,0,1994–95,Crystal Palace,H,3–0,3,"43,788",1st,win
+99,0.01,1994–95,Crystal Palace,H,3–0,3,"43,788",1st,win
+100,0,1994–95,Arsenal,A,0–0,0,"38,301",2nd,draw
+100,0.01,1994–95,Arsenal,A,0–0,0,"38,301",2nd,draw
+101,0,1994–95,Norwich City,H,1–0,1,"43,789",1st,win
+101,0.01,1994–95,Norwich City,H,1–0,1,"43,789",1st,win
+102,0,1994–95,Queens Park Rangers,A,3–2,1,"18,948",2nd,win
+102,0.01,1994–95,Queens Park Rangers,A,3–2,1,"18,948",2nd,win
+103,0,1994–95,Nottingham Forest,H,1–2,1,"43,744",2nd,lose
+103,0.01,1994–95,Nottingham Forest,H,1–2,1,"43,744",2nd,lose
+104,0,1994–95,Chelsea,A,3–2,1,"31,161",2nd,win
+104,0.01,1994–95,Chelsea,A,3–2,1,"31,161",2nd,win
+105,0,1994–95,Leicester City,H,1–1,0,"43,789",2nd,draw
+105,0.01,1994–95,Leicester City,H,1–1,0,"43,789",2nd,draw
+106,0,1994–95,Southampton,A,2–2,0,"16,708",2nd,draw
+106,0.01,1994–95,Southampton,A,2–2,0,"16,708",2nd,draw
+107,0,1994–95,Coventry City,H,2–0,2,"43,130",2nd,win
+107,0.01,1994–95,Coventry City,H,2–0,2,"43,130",2nd,win
+108,0,1994–95,Newcastle United,A,1–1,0,"34,471",2nd,draw
+108,0.01,1994–95,Newcastle United,A,1–1,0,"34,471",2nd,draw
+109,0,1994–95,Blackburn Rovers,H,1–0,1,"43,742",2nd,win
+109,0.01,1994–95,Blackburn Rovers,H,1–0,1,"43,742",2nd,win
+110,0,1994–95,Crystal Palace,A,1–1,0,"18,224",2nd,draw
+110,0.01,1994–95,Crystal Palace,A,1–1,0,"18,224",2nd,draw
+111,0,1994–95,Aston Villa,H,1–0,1,"43,795",2nd,win
+111,0.01,1994–95,Aston Villa,H,1–0,1,"43,795",2nd,win
+112,0,1994–95,Manchester City,A,3–0,3,"26,368",2nd,win
+112,0.01,1994–95,Manchester City,A,3–0,3,"26,368",2nd,win
+113,0,1994–95,Norwich City,A,2–0,2,"21,824",1st,win
+113,0.01,1994–95,Norwich City,A,2–0,2,"21,824",1st,win
+114,0,1994–95,Everton,A,0–1,1,"40,011",2nd,lose
+114,0.01,1994–95,Everton,A,0–1,1,"40,011",2nd,lose
+115,0,1994–95,Ipswich Town,H,9–0,9,"43,804",2nd,win
+115,0.01,1994–95,Ipswich Town,H,9–0,9,"43,804",2nd,win
+116,0,1994–95,Wimbledon,A,1–0,1,"18,224",1st,win
+116,0.01,1994–95,Wimbledon,A,1–0,1,"18,224",1st,win
+117,0,1994–95,Tottenham Hotspur,H,0–0,0,"43,802",2nd,draw
+117,0.01,1994–95,Tottenham Hotspur,H,0–0,0,"43,802",2nd,draw
+118,0,1994–95,Liverpool,A,0–2,2,"38,906",2nd,lose
+118,0.01,1994–95,Liverpool,A,0–2,2,"38,906",2nd,lose
+119,0,1994–95,Arsenal,H,3–0,3,"43,623",2nd,win
+119,0.01,1994–95,Arsenal,H,3–0,3,"43,623",2nd,win
+120,0,1994–95,Leeds United,H,0–0,0,"43,712",2nd,draw
+120,0.01,1994–95,Leeds United,H,0–0,0,"43,712",2nd,draw
+121,0,1994–95,Leicester City,A,4–0,4,"21,281",2nd,win
+121,0.01,1994–95,Leicester City,A,4–0,4,"21,281",2nd,win
+122,0,1994–95,Chelsea,H,0–0,0,"43,728",2nd,draw
+122,0.01,1994–95,Chelsea,H,0–0,0,"43,728",2nd,draw
+123,0,1994–95,Coventry City,A,3–2,1,"21,885",2nd,win
+123,0.01,1994–95,Coventry City,A,3–2,1,"21,885",2nd,win
+124,0,1994–95,Sheffield Wednesday,H,1–0,1,"43,868",2nd,win
+124,0.01,1994–95,Sheffield Wednesday,H,1–0,1,"43,868",2nd,win
+125,0,1994–95,Southampton,H,2–1,1,"43,479",2nd,win
+125,0.01,1994–95,Southampton,H,2–1,1,"43,479",2nd,win
+126,0,1994–95,West Ham United,A,1–1,0,"24,783",2nd,draw
+126,0.01,1994–95,West Ham United,A,1–1,0,"24,783",2nd,draw
+127,0,1995–96,Aston Villa,A,1–3,2,"34,655",19th,lose
+127,0.01,1995–96,Aston Villa,A,1–3,2,"34,655",19th,lose
+128,0,1995–96,West Ham United,H,2–1,1,"31,966",5th,win
+128,0.01,1995–96,West Ham United,H,2–1,1,"31,966",5th,win
+129,0,1995–96,Wimbledon,H,3–1,2,"32,226",4th,win
+129,0.01,1995–96,Wimbledon,H,3–1,2,"32,226",4th,win
+130,0,1995–96,Blackburn Rovers,A,2–1,1,"29,843",2nd,win
+130,0.01,1995–96,Blackburn Rovers,A,2–1,1,"29,843",2nd,win
+131,0,1995–96,Everton,A,3–2,1,"39,496",2nd,win
+131,0.01,1995–96,Everton,A,3–2,1,"39,496",2nd,win
+132,0,1995–96,Bolton Wanderers,H,3–0,3,"32,812",1st,win
+132,0.01,1995–96,Bolton Wanderers,H,3–0,3,"32,812",1st,win
+133,0,1995–96,Sheffield Wednesday,A,0–0,0,"34,101",3rd,draw
+133,0.01,1995–96,Sheffield Wednesday,A,0–0,0,"34,101",3rd,draw
+134,0,1995–96,Liverpool,H,2–2,0,"34,934",3rd,draw
+134,0.01,1995–96,Liverpool,H,2–2,0,"34,934",3rd,draw
+135,0,1995–96,Manchester City,H,1–0,1,"35,707",2nd,win
+135,0.01,1995–96,Manchester City,H,1–0,1,"35,707",2nd,win
+136,0,1995–96,Chelsea,A,4–1,3,"31,019",2nd,win
+136,0.01,1995–96,Chelsea,A,4–1,3,"31,019",2nd,win
+137,0,1995–96,Middlesbrough,H,2–0,2,"36,580",2nd,win
+137,0.01,1995–96,Middlesbrough,H,2–0,2,"36,580",2nd,win
+138,0,1995–96,Arsenal,A,0–1,1,"38,317",2nd,lose
+138,0.01,1995–96,Arsenal,A,0–1,1,"38,317",2nd,lose
+139,0,1995–96,Southampton,H,4–1,3,"39,301",2nd,win
+139,0.01,1995–96,Southampton,H,4–1,3,"39,301",2nd,win
+140,0,1995–96,Coventry City,A,4–0,4,"23,400",2nd,win
+140,0.01,1995–96,Coventry City,A,4–0,4,"23,400",2nd,win
+141,0,1995–96,Nottingham Forest,A,1–1,0,"29,263",2nd,draw
+141,0.01,1995–96,Nottingham Forest,A,1–1,0,"29,263",2nd,draw
+142,0,1995–96,Chelsea,H,1–1,0,"42,019",2nd,draw
+142,0.01,1995–96,Chelsea,H,1–1,0,"42,019",2nd,draw
+143,0,1995–96,Sheffield Wednesday,H,2–2,0,"41,849",2nd,draw
+143,0.01,1995–96,Sheffield Wednesday,H,2–2,0,"41,849",2nd,draw
+144,0,1995–96,Liverpool,A,0–2,2,"40,546",2nd,lose
+144,0.01,1995–96,Liverpool,A,0–2,2,"40,546",2nd,lose
+145,0,1995–96,Leeds United,A,1–3,2,"39,801",2nd,lose
+145,0.01,1995–96,Leeds United,A,1–3,2,"39,801",2nd,lose
+146,0,1995–96,Newcastle United,H,2–0,2,"42,024",2nd,win
+146,0.01,1995–96,Newcastle United,H,2–0,2,"42,024",2nd,win
+147,0,1995–96,Queens Park Rangers,H,2–1,1,"41,890",2nd,win
+147,0.01,1995–96,Queens Park Rangers,H,2–1,1,"41,890",2nd,win
+148,0,1995–96,Tottenham Hotspur,A,1–4,3,"32,852",2nd,lose
+148,0.01,1995–96,Tottenham Hotspur,A,1–4,3,"32,852",2nd,lose
+149,0,1995–96,Aston Villa,H,0–0,0,"42,667",3rd,draw
+149,0.01,1995–96,Aston Villa,H,0–0,0,"42,667",3rd,draw
+150,0,1995–96,West Ham United,A,1–0,1,"24,197",2nd,win
+150,0.01,1995–96,West Ham United,A,1–0,1,"24,197",2nd,win
+151,0,1995–96,Wimbledon,A,4–2,2,"25,380",2nd,win
+151,0.01,1995–96,Wimbledon,A,4–2,2,"25,380",2nd,win
+152,0,1995–96,Blackburn Rovers,H,1–0,1,"42,681",2nd,win
+152,0.01,1995–96,Blackburn Rovers,H,1–0,1,"42,681",2nd,win
+153,0,1995–96,Everton,H,2–0,2,"42,459",2nd,win
+153,0.01,1995–96,Everton,H,2–0,2,"42,459",2nd,win
+154,0,1995–96,Bolton Wanderers,A,6–0,6,"21,381",2nd,win
+154,0.01,1995–96,Bolton Wanderers,A,6–0,6,"21,381",2nd,win
+155,0,1995–96,Newcastle United,A,1–0,1,"36,584",2nd,win
+155,0.01,1995–96,Newcastle United,A,1–0,1,"36,584",2nd,win
+156,0,1995–96,Queens Park Rangers,A,1–1,0,"18,817",2nd,draw
+156,0.01,1995–96,Queens Park Rangers,A,1–1,0,"18,817",2nd,draw
+157,0,1995–96,Arsenal,H,1–0,1,"50,028",1st,win
+157,0.01,1995–96,Arsenal,H,1–0,1,"50,028",1st,win
+158,0,1995–96,Tottenham Hotspur,H,1–0,1,"50,157",1st,win
+158,0.01,1995–96,Tottenham Hotspur,H,1–0,1,"50,157",1st,win
+159,0,1995–96,Manchester City,A,3–2,1,"29,668",1st,win
+159,0.01,1995–96,Manchester City,A,3–2,1,"29,668",1st,win
+160,0,1995–96,Coventry City,H,1–0,1,"50,332",1st,win
+160,0.01,1995–96,Coventry City,H,1–0,1,"50,332",1st,win
+161,0,1995–96,Southampton,A,1–3,2,"15,262",1st,lose
+161,0.01,1995–96,Southampton,A,1–3,2,"15,262",1st,lose
+162,0,1995–96,Leeds United,H,1–0,1,"48,382",1st,win
+162,0.01,1995–96,Leeds United,H,1–0,1,"48,382",1st,win
+163,0,1995–96,Nottingham Forest,H,5–0,5,"53,926",1st,win
+163,0.01,1995–96,Nottingham Forest,H,5–0,5,"53,926",1st,win
+164,0,1995–96,Middlesbrough,A,3–0,3,"29,921",1st,win
+164,0.01,1995–96,Middlesbrough,A,3–0,3,"29,921",1st,win
+165,0,1996–97,Wimbledon,A,3–0,3,"25,786",1st,win
+165,0.01,1996–97,Wimbledon,A,3–0,3,"25,786",1st,win
+166,0,1996–97,Everton,H,2–2,0,"54,943",9th,draw
+166,0.01,1996–97,Everton,H,2–2,0,"54,943",9th,draw
+167,0,1996–97,Blackburn Rovers,H,2–2,0,"54,178",5th,draw
+167,0.01,1996–97,Blackburn Rovers,H,2–2,0,"54,178",5th,draw
+168,0,1996–97,Derby County,A,1–1,0,"18,026",4th,draw
+168,0.01,1996–97,Derby County,A,1–1,0,"18,026",4th,draw
+169,0,1996–97,Leeds United,A,4–0,4,"39,694",5th,win
+169,0.01,1996–97,Leeds United,A,4–0,4,"39,694",5th,win
+170,0,1996–97,Nottingham Forest,H,4–1,3,"54,984",1st,win
+170,0.01,1996–97,Nottingham Forest,H,4–1,3,"54,984",1st,win
+171,0,1996–97,Aston Villa,A,0–0,0,"39,339",4th,draw
+171,0.01,1996–97,Aston Villa,A,0–0,0,"39,339",4th,draw
+172,0,1996–97,Tottenham Hotspur,H,2–0,2,"54,943",3rd,win
+172,0.01,1996–97,Tottenham Hotspur,H,2–0,2,"54,943",3rd,win
+173,0,1996–97,Liverpool,H,1–0,1,"55,128",4th,win
+173,0.01,1996–97,Liverpool,H,1–0,1,"55,128",4th,win
+174,0,1996–97,Newcastle United,A,0–5,5,"35,579",5th,lose
+174,0.01,1996–97,Newcastle United,A,0–5,5,"35,579",5th,lose
+175,0,1996–97,Southampton,A,3–6,3,"15,253",5th,lose
+175,0.01,1996–97,Southampton,A,3–6,3,"15,253",5th,lose
+176,0,1996–97,Chelsea,H,1–2,1,"55,198",6th,lose
+176,0.01,1996–97,Chelsea,H,1–2,1,"55,198",6th,lose
+177,0,1996–97,Arsenal,H,1–0,1,"55,210",6th,win
+177,0.01,1996–97,Arsenal,H,1–0,1,"55,210",6th,win
+178,0,1996–97,Middlesbrough,A,2–2,0,"30,063",7th,draw
+178,0.01,1996–97,Middlesbrough,A,2–2,0,"30,063",7th,draw
+179,0,1996–97,Leicester City,H,3–1,2,"55,196",5th,win
+179,0.01,1996–97,Leicester City,H,3–1,2,"55,196",5th,win
+180,0,1996–97,West Ham United,A,2–2,0,"25,045",6th,draw
+180,0.01,1996–97,West Ham United,A,2–2,0,"25,045",6th,draw
+181,0,1996–97,Sheffield Wednesday,A,1–1,0,"37,671",5th,draw
+181,0.01,1996–97,Sheffield Wednesday,A,1–1,0,"37,671",5th,draw
+182,0,1996–97,Sunderland,H,5–0,5,"55,081",3rd,win
+182,0.01,1996–97,Sunderland,H,5–0,5,"55,081",3rd,win
+183,0,1996–97,Nottingham Forest,A,4–0,4,"29,032",3rd,win
+183,0.01,1996–97,Nottingham Forest,A,4–0,4,"29,032",3rd,win
+184,0,1996–97,Leeds United,H,1–0,1,"55,256",2nd,win
+184,0.01,1996–97,Leeds United,H,1–0,1,"55,256",2nd,win
+185,0,1996–97,Aston Villa,H,0–0,0,"55,133",3rd,draw
+185,0.01,1996–97,Aston Villa,H,0–0,0,"55,133",3rd,draw
+186,0,1996–97,Tottenham Hotspur,A,2–1,1,"33,026",3rd,win
+186,0.01,1996–97,Tottenham Hotspur,A,2–1,1,"33,026",3rd,win
+187,0,1996–97,Coventry City,A,2–0,2,"23,085",2nd,win
+187,0.01,1996–97,Coventry City,A,2–0,2,"23,085",2nd,win
+188,0,1996–97,Wimbledon,H,2–1,1,"55,314",2nd,win
+188,0.01,1996–97,Wimbledon,H,2–1,1,"55,314",2nd,win
+189,0,1996–97,Southampton,H,2–1,1,"55,269",1st,win
+189,0.01,1996–97,Southampton,H,2–1,1,"55,269",1st,win
+190,0,1996–97,Arsenal,A,2–1,1,"38,172",1st,win
+190,0.01,1996–97,Arsenal,A,2–1,1,"38,172",1st,win
+191,0,1996–97,Chelsea,A,1–1,0,"28,336",1st,draw
+191,0.01,1996–97,Chelsea,A,1–1,0,"28,336",1st,draw
+192,0,1996–97,Coventry City,H,3–1,2,"55,230",1st,win
+192,0.01,1996–97,Coventry City,H,3–1,2,"55,230",1st,win
+193,0,1996–97,Sunderland,A,1–2,1,"22,225",1st,lose
+193,0.01,1996–97,Sunderland,A,1–2,1,"22,225",1st,lose
+194,0,1996–97,Sheffield Wednesday,H,2–0,2,"55,267",1st,win
+194,0.01,1996–97,Sheffield Wednesday,H,2–0,2,"55,267",1st,win
+195,0,1996–97,Everton,A,2–0,2,"40,079",1st,win
+195,0.01,1996–97,Everton,A,2–0,2,"40,079",1st,win
+196,0,1996–97,Derby County,H,2–3,1,"55,243",1st,lose
+196,0.01,1996–97,Derby County,H,2–3,1,"55,243",1st,lose
+197,0,1996–97,Blackburn Rovers,A,3–2,1,"30,476",1st,win
+197,0.01,1996–97,Blackburn Rovers,A,3–2,1,"30,476",1st,win
+198,0,1996–97,Liverpool,A,3–1,2,"40,892",1st,win
+198,0.01,1996–97,Liverpool,A,3–1,2,"40,892",1st,win
+199,0,1996–97,Leicester City,A,2–2,0,"21,068",1st,draw
+199,0.01,1996–97,Leicester City,A,2–2,0,"21,068",1st,draw
+200,0,1996–97,Middlesbrough,H,3–3,0,"54,489",1st,draw
+200,0.01,1996–97,Middlesbrough,H,3–3,0,"54,489",1st,draw
+201,0,1996–97,Newcastle United,H,0–0,0,"55,236",1st,draw
+201,0.01,1996–97,Newcastle United,H,0–0,0,"55,236",1st,draw
+202,0,1996–97,West Ham United,H,2–0,2,"55,249",1st,win
+202,0.01,1996–97,West Ham United,H,2–0,2,"55,249",1st,win
+203,0,1997–98,Tottenham Hotspur,A,2–0,2,"26,359",1st,win
+203,0.01,1997–98,Tottenham Hotspur,A,2–0,2,"26,359",1st,win
+204,0,1997–98,Southampton,H,1–0,1,"55,008",2nd,win
+204,0.01,1997–98,Southampton,H,1–0,1,"55,008",2nd,win
+205,0,1997–98,Leicester City,A,0–0,0,"21,221",3rd,draw
+205,0.01,1997–98,Leicester City,A,0–0,0,"21,221",3rd,draw
+206,0,1997–98,Everton,A,2–0,2,"40,079",2nd,win
+206,0.01,1997–98,Everton,A,2–0,2,"40,079",2nd,win
+207,0,1997–98,Coventry City,H,3–0,3,"55,074",2nd,win
+207,0.01,1997–98,Coventry City,H,3–0,3,"55,074",2nd,win
+208,0,1997–98,West Ham United,H,2–1,1,"55,068",1st,win
+208,0.01,1997–98,West Ham United,H,2–1,1,"55,068",1st,win
+209,0,1997–98,Bolton Wanderers,A,0–0,0,"25,000",1st,draw
+209,0.01,1997–98,Bolton Wanderers,A,0–0,0,"25,000",1st,draw
+210,0,1997–98,Chelsea,H,2–2,0,"55,163",2nd,draw
+210,0.01,1997–98,Chelsea,H,2–2,0,"55,163",2nd,draw
+211,0,1997–98,Leeds United,A,0–1,1,"39,952",2nd,lose
+211,0.01,1997–98,Leeds United,A,0–1,1,"39,952",2nd,lose
+212,0,1997–98,Crystal Palace,H,2–0,2,"55,143",2nd,win
+212,0.01,1997–98,Crystal Palace,H,2–0,2,"55,143",2nd,win
+213,0,1997–98,Derby County,A,2–2,0,"30,014",3rd,draw
+213,0.01,1997–98,Derby County,A,2–2,0,"30,014",3rd,draw
+214,0,1997–98,Barnsley,H,7–0,7,"55,142",1st,win
+214,0.01,1997–98,Barnsley,H,7–0,7,"55,142",1st,win
+215,0,1997–98,Sheffield Wednesday,H,6–1,5,"55,259",1st,win
+215,0.01,1997–98,Sheffield Wednesday,H,6–1,5,"55,259",1st,win
+216,0,1997–98,Arsenal,A,2–3,1,"38,205",1st,lose
+216,0.01,1997–98,Arsenal,A,2–3,1,"38,205",1st,lose
+217,0,1997–98,Wimbledon,A,5–2,3,"26,309",1st,win
+217,0.01,1997–98,Wimbledon,A,5–2,3,"26,309",1st,win
+218,0,1997–98,Blackburn Rovers,H,4–0,4,"55,175",1st,win
+218,0.01,1997–98,Blackburn Rovers,H,4–0,4,"55,175",1st,win
+219,0,1997–98,Liverpool,A,3–1,2,"41,027",1st,win
+219,0.01,1997–98,Liverpool,A,3–1,2,"41,027",1st,win
+220,0,1997–98,Aston Villa,H,1–0,1,"55,151",1st,win
+220,0.01,1997–98,Aston Villa,H,1–0,1,"55,151",1st,win
+221,0,1997–98,Newcastle United,A,1–0,1,"36,767",1st,win
+221,0.01,1997–98,Newcastle United,A,1–0,1,"36,767",1st,win
+222,0,1997–98,Everton,H,2–0,2,"41,027",1st,win
+222,0.01,1997–98,Everton,H,2–0,2,"41,027",1st,win
+223,0,1997–98,Coventry City,A,2–3,1,"23,054",1st,lose
+223,0.01,1997–98,Coventry City,A,2–3,1,"23,054",1st,lose
+224,0,1997–98,Tottenham Hotspur,H,2–0,2,"55,281",1st,win
+224,0.01,1997–98,Tottenham Hotspur,H,2–0,2,"55,281",1st,win
+225,0,1997–98,Southampton,A,0–1,1,"15,241",1st,lose
+225,0.01,1997–98,Southampton,A,0–1,1,"15,241",1st,lose
+226,0,1997–98,Leicester City,H,0–1,1,"55,156",1st,lose
+226,0.01,1997–98,Leicester City,H,0–1,1,"55,156",1st,lose
+227,0,1997–98,Bolton Wanderers,H,1–1,0,"55,156",1st,draw
+227,0.01,1997–98,Bolton Wanderers,H,1–1,0,"55,156",1st,draw
+228,0,1997–98,Aston Villa,A,2–0,2,"39,372",1st,win
+228,0.01,1997–98,Aston Villa,A,2–0,2,"39,372",1st,win
+229,0,1997–98,Derby County,H,2–0,2,"55,170",1st,win
+229,0.01,1997–98,Derby County,H,2–0,2,"55,170",1st,win
+230,0,1997–98,Chelsea,A,1–0,1,"35,411",1st,win
+230,0.01,1997–98,Chelsea,A,1–0,1,"35,411",1st,win
+231,0,1997–98,Sheffield Wednesday,A,0–2,2,"39,427",1st,lose
+231,0.01,1997–98,Sheffield Wednesday,A,0–2,2,"39,427",1st,lose
+232,0,1997–98,West Ham United,A,1–1,0,"25,892",1st,draw
+232,0.01,1997–98,West Ham United,A,1–1,0,"25,892",1st,draw
+233,0,1997–98,Arsenal,H,0–1,1,"55,174",1st,lose
+233,0.01,1997–98,Arsenal,H,0–1,1,"55,174",1st,lose
+234,0,1997–98,Wimbledon,H,2–0,2,"55,306",1st,win
+234,0.01,1997–98,Wimbledon,H,2–0,2,"55,306",1st,win
+235,0,1997–98,Blackburn Rovers,A,3–1,2,"30,547",1st,win
+235,0.01,1997–98,Blackburn Rovers,A,3–1,2,"30,547",1st,win
+236,0,1997–98,Liverpool,H,1–1,0,"55,171",1st,draw
+236,0.01,1997–98,Liverpool,H,1–1,0,"55,171",1st,draw
+237,0,1997–98,Newcastle United,H,1–1,0,"55,194",2nd,draw
+237,0.01,1997–98,Newcastle United,H,1–1,0,"55,194",2nd,draw
+238,0,1997–98,Crystal Palace,A,3–0,3,"26,180",2nd,win
+238,0.01,1997–98,Crystal Palace,A,3–0,3,"26,180",2nd,win
+239,0,1997–98,Leeds United,H,3–0,3,"55,167",2nd,win
+239,0.01,1997–98,Leeds United,H,3–0,3,"55,167",2nd,win
+240,0,1997–98,Barnsley,A,2–0,2,"18,694",2nd,win
+240,0.01,1997–98,Barnsley,A,2–0,2,"18,694",2nd,win
+241,0,1998–99,Leicester City,H,2–2,0,"55,052",7th,draw
+241,0.01,1998–99,Leicester City,H,2–2,0,"55,052",7th,draw
+242,0,1998–99,West Ham United,A,0–0,0,"26,039",11th,draw
+242,0.01,1998–99,West Ham United,A,0–0,0,"26,039",11th,draw
+243,0,1998–99,Charlton Athletic,H,4–1,3,"55,147",9th,win
+243,0.01,1998–99,Charlton Athletic,H,4–1,3,"55,147",9th,win
+244,0,1998–99,Coventry City,H,2–0,2,"55,193",5th,win
+244,0.01,1998–99,Coventry City,H,2–0,2,"55,193",5th,win
+245,0,1998–99,Arsenal,A,0–3,3,"38,142",10th,lose
+245,0.01,1998–99,Arsenal,A,0–3,3,"38,142",10th,lose
+246,0,1998–99,Liverpool,H,2–0,2,"55,181",5th,win
+246,0.01,1998–99,Liverpool,H,2–0,2,"55,181",5th,win
+247,0,1998–99,Southampton,A,3–0,3,"15,251",2nd,win
+247,0.01,1998–99,Southampton,A,3–0,3,"15,251",2nd,win
+248,0,1998–99,Wimbledon,H,5–1,4,"55,265",2nd,win
+248,0.01,1998–99,Wimbledon,H,5–1,4,"55,265",2nd,win
+249,0,1998–99,Derby County,A,1–1,0,"30,867",2nd,draw
+249,0.01,1998–99,Derby County,A,1–1,0,"30,867",2nd,draw
+250,0,1998–99,Everton,A,4–1,3,"40,079",2nd,win
+250,0.01,1998–99,Everton,A,4–1,3,"40,079",2nd,win
+251,0,1998–99,Newcastle United,H,0–0,0,"55,174",3rd,draw
+251,0.01,1998–99,Newcastle United,H,0–0,0,"55,174",3rd,draw
+252,0,1998–99,Blackburn Rovers,H,3–2,1,"55,198",2nd,win
+252,0.01,1998–99,Blackburn Rovers,H,3–2,1,"55,198",2nd,win
+253,0,1998–99,Sheffield Wednesday,A,1–3,2,"39,475",2nd,lose
+253,0.01,1998–99,Sheffield Wednesday,A,1–3,2,"39,475",2nd,lose
+254,0,1998–99,Leeds United,H,3–2,1,"55,172",2nd,win
+254,0.01,1998–99,Leeds United,H,3–2,1,"55,172",2nd,win
+255,0,1998–99,Aston Villa,A,1–1,0,"39,241",2nd,draw
+255,0.01,1998–99,Aston Villa,A,1–1,0,"39,241",2nd,draw
+256,0,1998–99,Tottenham Hotspur,A,2–2,0,"36,079",1st,draw
+256,0.01,1998–99,Tottenham Hotspur,A,2–2,0,"36,079",1st,draw
+257,0,1998–99,Chelsea,H,1–1,0,"55,159",2nd,draw
+257,0.01,1998–99,Chelsea,H,1–1,0,"55,159",2nd,draw
+258,0,1998–99,Middlesbrough,H,2–3,1,"55,152",3rd,lose
+258,0.01,1998–99,Middlesbrough,H,2–3,1,"55,152",3rd,lose
+259,0,1998–99,Nottingham Forest,H,3–0,3,"55,216",4th,win
+259,0.01,1998–99,Nottingham Forest,H,3–0,3,"55,216",4th,win
+260,0,1998–99,Chelsea,A,0–0,0,"34,741",4th,draw
+260,0.01,1998–99,Chelsea,A,0–0,0,"34,741",4th,draw
+261,0,1998–99,West Ham United,H,4–1,3,"55,180",3rd,win
+261,0.01,1998–99,West Ham United,H,4–1,3,"55,180",3rd,win
+262,0,1998–99,Leicester City,A,6–2,4,"22,091",3rd,win
+262,0.01,1998–99,Leicester City,A,6–2,4,"22,091",3rd,win
+263,0,1998–99,Charlton Athletic,A,1–0,1,"20,043",1st,win
+263,0.01,1998–99,Charlton Athletic,A,1–0,1,"20,043",1st,win
+264,0,1998–99,Derby County,H,1–0,1,"55,174",1st,win
+264,0.01,1998–99,Derby County,H,1–0,1,"55,174",1st,win
+265,0,1998–99,Nottingham Forest,A,8–1,7,"30,025",1st,win
+265,0.01,1998–99,Nottingham Forest,A,8–1,7,"30,025",1st,win
+266,0,1998–99,Arsenal,H,1–1,0,"55,171",1st,draw
+266,0.01,1998–99,Arsenal,H,1–1,0,"55,171",1st,draw
+267,0,1998–99,Coventry City,A,1–0,1,"22,596",1st,win
+267,0.01,1998–99,Coventry City,A,1–0,1,"22,596",1st,win
+268,0,1998–99,Southampton,H,2–1,1,"55,316",1st,win
+268,0.01,1998–99,Southampton,H,2–1,1,"55,316",1st,win
+269,0,1998–99,Newcastle United,A,2–1,1,"36,776",1st,win
+269,0.01,1998–99,Newcastle United,A,2–1,1,"36,776",1st,win
+270,0,1998–99,Everton,H,3–1,2,"55,182",1st,win
+270,0.01,1998–99,Everton,H,3–1,2,"55,182",1st,win
+271,0,1998–99,Wimbledon,A,1–1,0,"26,121",1st,draw
+271,0.01,1998–99,Wimbledon,A,1–1,0,"26,121",1st,draw
+272,0,1998–99,Sheffield Wednesday,H,3–0,3,"55,270",1st,win
+272,0.01,1998–99,Sheffield Wednesday,H,3–0,3,"55,270",1st,win
+273,0,1998–99,Leeds United,A,1–1,0,"40,255",2nd,draw
+273,0.01,1998–99,Leeds United,A,1–1,0,"40,255",2nd,draw
+274,0,1998–99,Aston Villa,H,2–1,1,"55,189",2nd,win
+274,0.01,1998–99,Aston Villa,H,2–1,1,"55,189",2nd,win
+275,0,1998–99,Liverpool,A,2–2,0,"44,702",2nd,draw
+275,0.01,1998–99,Liverpool,A,2–2,0,"44,702",2nd,draw
+276,0,1998–99,Middlesbrough,A,1–0,1,"34,665",1st,win
+276,0.01,1998–99,Middlesbrough,A,1–0,1,"34,665",1st,win
+277,0,1998–99,Blackburn Rovers,A,0–0,0,"30,436",1st,draw
+277,0.01,1998–99,Blackburn Rovers,A,0–0,0,"30,436",1st,draw
+278,0,1998–99,Tottenham Hotspur,H,2–1,1,"55,189",1st,win
+278,0.01,1998–99,Tottenham Hotspur,H,2–1,1,"55,189",1st,win
+279,0,1999–2000,Everton,A,1–1,0,"39,141",9th,draw
+279,0.01,1999–2000,Everton,A,1–1,0,"39,141",9th,draw
+280,0,1999–2000,Sheffield Wednesday,H,4–0,4,"54,941",3rd,win
+280,0.01,1999–2000,Sheffield Wednesday,H,4–0,4,"54,941",3rd,win
+281,0,1999–2000,Leeds United,H,2–0,2,"55,187",1st,win
+281,0.01,1999–2000,Leeds United,H,2–0,2,"55,187",1st,win
+282,0,1999–2000,Arsenal,A,2–1,1,"38,147",1st,win
+282,0.01,1999–2000,Arsenal,A,2–1,1,"38,147",1st,win
+283,0,1999–2000,Coventry City,A,2–1,1,"22,024",1st,win
+283,0.01,1999–2000,Coventry City,A,2–1,1,"22,024",1st,win
+284,0,1999–2000,Newcastle United,H,5–1,4,"55,190",1st,win
+284,0.01,1999–2000,Newcastle United,H,5–1,4,"55,190",1st,win
+285,0,1999–2000,Liverpool,A,3–2,1,"44,929",1st,win
+285,0.01,1999–2000,Liverpool,A,3–2,1,"44,929",1st,win
+286,0,1999–2000,Wimbledon,H,1–1,0,"55,189",1st,draw
+286,0.01,1999–2000,Wimbledon,H,1–1,0,"55,189",1st,draw
+287,0,1999–2000,Southampton,H,3–3,0,"55,249",1st,draw
+287,0.01,1999–2000,Southampton,H,3–3,0,"55,249",1st,draw
+288,0,1999–2000,Chelsea,A,0–5,5,"34,909",2nd,lose
+288,0.01,1999–2000,Chelsea,A,0–5,5,"34,909",2nd,lose
+289,0,1999–2000,Watford,H,4–1,3,"55,188",2nd,win
+289,0.01,1999–2000,Watford,H,4–1,3,"55,188",2nd,win
+290,0,1999–2000,Tottenham Hotspur,A,1–3,2,"36,072",3rd,lose
+290,0.01,1999–2000,Tottenham Hotspur,A,1–3,2,"36,072",3rd,lose
+291,0,1999–2000,Aston Villa,H,3–0,3,"55,211",2nd,win
+291,0.01,1999–2000,Aston Villa,H,3–0,3,"55,211",2nd,win
+292,0,1999–2000,Leicester City,H,2–0,2,"55,191",1st,win
+292,0.01,1999–2000,Leicester City,H,2–0,2,"55,191",1st,win
+293,0,1999–2000,Derby County,A,2–1,1,"33,370",1st,win
+293,0.01,1999–2000,Derby County,A,2–1,1,"33,370",1st,win
+294,0,1999–2000,Everton,H,5–1,4,"55,193",1st,win
+294,0.01,1999–2000,Everton,H,5–1,4,"55,193",1st,win
+295,0,1999–2000,West Ham United,A,4–2,2,"26,037",1st,win
+295,0.01,1999–2000,West Ham United,A,4–2,2,"26,037",1st,win
+296,0,1999–2000,Bradford City,H,4–0,4,"55,188",2nd,win
+296,0.01,1999–2000,Bradford City,H,4–0,4,"55,188",2nd,win
+297,0,1999–2000,Sunderland,A,2–2,0,"42,026",2nd,draw
+297,0.01,1999–2000,Sunderland,A,2–2,0,"42,026",2nd,draw
+298,0,1999–2000,Arsenal,H,1–1,0,"58,293",2nd,draw
+298,0.01,1999–2000,Arsenal,H,1–1,0,"58,293",2nd,draw
+299,0,1999–2000,Middlesbrough,H,1–0,1,"61,267",1st,win
+299,0.01,1999–2000,Middlesbrough,H,1–0,1,"61,267",1st,win
+300,0,1999–2000,Sheffield Wednesday,A,1–0,1,"39,640",1st,win
+300,0.01,1999–2000,Sheffield Wednesday,A,1–0,1,"39,640",1st,win
+301,0,1999–2000,Coventry City,H,3–2,1,"61,380",1st,win
+301,0.01,1999–2000,Coventry City,H,3–2,1,"61,380",1st,win
+302,0,1999–2000,Newcastle United,A,0–3,3,"36,470",1st,lose
+302,0.01,1999–2000,Newcastle United,A,0–3,3,"36,470",1st,lose
+303,0,1999–2000,Leeds United,A,1–0,1,"40,160",1st,win
+303,0.01,1999–2000,Leeds United,A,1–0,1,"40,160",1st,win
+304,0,1999–2000,Wimbledon,A,2–2,0,"26,129",1st,draw
+304,0.01,1999–2000,Wimbledon,A,2–2,0,"26,129",1st,draw
+305,0,1999–2000,Liverpool,H,1–1,0,"61,592",1st,draw
+305,0.01,1999–2000,Liverpool,H,1–1,0,"61,592",1st,draw
+306,0,1999–2000,Derby County,H,3–1,2,"61,619",1st,win
+306,0.01,1999–2000,Derby County,H,3–1,2,"61,619",1st,win
+307,0,1999–2000,Leicester City,A,2–0,2,"22,170",1st,win
+307,0.01,1999–2000,Leicester City,A,2–0,2,"22,170",1st,win
+308,0,1999–2000,Bradford City,A,4–0,4,"18,276",1st,win
+308,0.01,1999–2000,Bradford City,A,4–0,4,"18,276",1st,win
+309,0,1999–2000,West Ham United,H,7–1,6,"61,611",1st,win
+309,0.01,1999–2000,West Ham United,H,7–1,6,"61,611",1st,win
+310,0,1999–2000,Middlesbrough,A,4–3,1,"34,775",1st,win
+310,0.01,1999–2000,Middlesbrough,A,4–3,1,"34,775",1st,win
+311,0,1999–2000,Sunderland,H,4–0,4,"61,612",1st,win
+311,0.01,1999–2000,Sunderland,H,4–0,4,"61,612",1st,win
+312,0,1999–2000,Southampton,A,3–1,2,"15,245",1st,win
+312,0.01,1999–2000,Southampton,A,3–1,2,"15,245",1st,win
+313,0,1999–2000,Chelsea,H,3–2,1,"61,593",1st,win
+313,0.01,1999–2000,Chelsea,H,3–2,1,"61,593",1st,win
+314,0,1999–2000,Watford,A,3–2,1,"20,250",1st,win
+314,0.01,1999–2000,Watford,A,3–2,1,"20,250",1st,win
+315,0,1999–2000,Tottenham Hotspur,H,3–1,2,"61,629",1st,win
+315,0.01,1999–2000,Tottenham Hotspur,H,3–1,2,"61,629",1st,win
+316,0,1999–2000,Aston Villa,A,1–0,1,"39,217",1st,win
+316,0.01,1999–2000,Aston Villa,A,1–0,1,"39,217",1st,win
+317,0,2000–01,Newcastle United,H,2–0,2,"67,477",5th,win
+317,0.01,2000–01,Newcastle United,H,2–0,2,"67,477",5th,win
+318,0,2000–01,Ipswich Town,A,1–1,0,"22,007",3rd,draw
+318,0.01,2000–01,Ipswich Town,A,1–1,0,"22,007",3rd,draw
+319,0,2000–01,West Ham United,A,2–2,0,"25,998",5th,draw
+319,0.01,2000–01,West Ham United,A,2–2,0,"25,998",5th,draw
+320,0,2000–01,Bradford City,H,6–0,6,"67,447",1st,win
+320,0.01,2000–01,Bradford City,H,6–0,6,"67,447",1st,win
+321,0,2000–01,Sunderland,H,3–0,3,"67,503",1st,win
+321,0.01,2000–01,Sunderland,H,3–0,3,"67,503",1st,win
+322,0,2000–01,Everton,A,3–1,2,"38,541",1st,win
+322,0.01,2000–01,Everton,A,3–1,2,"38,541",1st,win
+323,0,2000–01,Chelsea,H,3–3,0,"67,568",1st,draw
+323,0.01,2000–01,Chelsea,H,3–3,0,"67,568",1st,draw
+324,0,2000–01,Arsenal,A,0–1,1,"38,146",2nd,lose
+324,0.01,2000–01,Arsenal,A,0–1,1,"38,146",2nd,lose
+325,0,2000–01,Leicester City,A,3–0,3,"22,132",1st,win
+325,0.01,2000–01,Leicester City,A,3–0,3,"22,132",1st,win
+326,0,2000–01,Leeds United,H,3–0,3,"67,523",1st,win
+326,0.01,2000–01,Leeds United,H,3–0,3,"67,523",1st,win
+327,0,2000–01,Southampton,H,5–0,5,"67,581",1st,win
+327,0.01,2000–01,Southampton,H,5–0,5,"67,581",1st,win
+328,0,2000–01,Coventry City,A,2–1,1,"21,079",1st,win
+328,0.01,2000–01,Coventry City,A,2–1,1,"21,079",1st,win
+329,0,2000–01,Middlesbrough,H,2–1,1,"67,576",1st,win
+329,0.01,2000–01,Middlesbrough,H,2–1,1,"67,576",1st,win
+330,0,2000–01,Manchester City,A,1–0,1,"34,429",1st,win
+330,0.01,2000–01,Manchester City,A,1–0,1,"34,429",1st,win
+331,0,2000–01,Derby County,A,3–0,3,"32,910",1st,win
+331,0.01,2000–01,Derby County,A,3–0,3,"32,910",1st,win
+332,0,2000–01,Tottenham Hotspur,H,2–0,2,"67,583",1st,win
+332,0.01,2000–01,Tottenham Hotspur,H,2–0,2,"67,583",1st,win
+333,0,2000–01,Charlton Athletic,A,3–3,0,"20,043",1st,draw
+333,0.01,2000–01,Charlton Athletic,A,3–3,0,"20,043",1st,draw
+334,0,2000–01,Liverpool,H,0–1,1,"67,533",1st,lose
+334,0.01,2000–01,Liverpool,H,0–1,1,"67,533",1st,lose
+335,0,2000–01,Ipswich Town,H,2–0,2,"67,597",1st,win
+335,0.01,2000–01,Ipswich Town,H,2–0,2,"67,597",1st,win
+336,0,2000–01,Aston Villa,A,1–0,1,"40,889",1st,win
+336,0.01,2000–01,Aston Villa,A,1–0,1,"40,889",1st,win
+337,0,2000–01,Newcastle United,A,1–1,0,"52,134",1st,draw
+337,0.01,2000–01,Newcastle United,A,1–1,0,"52,134",1st,draw
+338,0,2000–01,West Ham United,H,3–1,2,"67,603",1st,win
+338,0.01,2000–01,West Ham United,H,3–1,2,"67,603",1st,win
+339,0,2000–01,Bradford City,A,3–0,3,"20,551",1st,win
+339,0.01,2000–01,Bradford City,A,3–0,3,"20,551",1st,win
+340,0,2000–01,Aston Villa,H,2–0,2,"67,533",1st,win
+340,0.01,2000–01,Aston Villa,H,2–0,2,"67,533",1st,win
+341,0,2000–01,Sunderland,A,1–0,1,"48,260",1st,win
+341,0.01,2000–01,Sunderland,A,1–0,1,"48,260",1st,win
+342,0,2000–01,Everton,H,1–0,1,"67,528",1st,win
+342,0.01,2000–01,Everton,H,1–0,1,"67,528",1st,win
+343,0,2000–01,Chelsea,A,1–1,0,"34,960",1st,draw
+343,0.01,2000–01,Chelsea,A,1–1,0,"34,960",1st,draw
+344,0,2000–01,Arsenal,H,6–1,5,"67,535",1st,win
+344,0.01,2000–01,Arsenal,H,6–1,5,"67,535",1st,win
+345,0,2000–01,Leeds United,A,1–1,0,"40,055",1st,draw
+345,0.01,2000–01,Leeds United,A,1–1,0,"40,055",1st,draw
+346,0,2000–01,Leicester City,H,2–0,2,"67,516",1st,win
+346,0.01,2000–01,Leicester City,H,2–0,2,"67,516",1st,win
+347,0,2000–01,Liverpool,A,0–2,2,"44,806",1st,lose
+347,0.01,2000–01,Liverpool,A,0–2,2,"44,806",1st,lose
+348,0,2000–01,Charlton Athletic,H,2–1,1,"67,505",1st,win
+348,0.01,2000–01,Charlton Athletic,H,2–1,1,"67,505",1st,win
+349,0,2000–01,Coventry City,H,4–2,2,"67,637",1st,win
+349,0.01,2000–01,Coventry City,H,4–2,2,"67,637",1st,win
+350,0,2000–01,Manchester City,H,1–1,0,"67,535",1st,draw
+350,0.01,2000–01,Manchester City,H,1–1,0,"67,535",1st,draw
+351,0,2000–01,Middlesbrough,A,2–0,2,"34,417",1st,win
+351,0.01,2000–01,Middlesbrough,A,2–0,2,"34,417",1st,win
+352,0,2000–01,Derby County,H,0–1,1,"67,526",1st,lose
+352,0.01,2000–01,Derby County,H,0–1,1,"67,526",1st,lose
+353,0,2000–01,Southampton,A,1–2,1,"15,526",1st,lose
+353,0.01,2000–01,Southampton,A,1–2,1,"15,526",1st,lose
+354,0,2000–01,Tottenham Hotspur,A,1–3,2,"36,072",1st,lose
+354,0.01,2000–01,Tottenham Hotspur,A,1–3,2,"36,072",1st,lose
+355,0,2001–02,Fulham,H,3–2,1,"67,534",4th,win
+355,0.01,2001–02,Fulham,H,3–2,1,"67,534",4th,win
+356,0,2001–02,Blackburn Rovers,A,2–2,0,"29,836",3rd,draw
+356,0.01,2001–02,Blackburn Rovers,A,2–2,0,"29,836",3rd,draw
+357,0,2001–02,Aston Villa,A,1–1,0,"42,632",5th,draw
+357,0.01,2001–02,Aston Villa,A,1–1,0,"42,632",5th,draw
+358,0,2001–02,Everton,H,4–1,3,"67,534",2nd,win
+358,0.01,2001–02,Everton,H,4–1,3,"67,534",2nd,win
+359,0,2001–02,Newcastle United,A,3–4,1,"52,056",4th,lose
+359,0.01,2001–02,Newcastle United,A,3–4,1,"52,056",4th,lose
+360,0,2001–02,Ipswich Town,H,4–0,4,"67,551",3rd,win
+360,0.01,2001–02,Ipswich Town,H,4–0,4,"67,551",3rd,win
+361,0,2001–02,Tottenham Hotspur,A,5–3,2,"36,038",2nd,win
+361,0.01,2001–02,Tottenham Hotspur,A,5–3,2,"36,038",2nd,win
+362,0,2001–02,Sunderland,A,3–1,2,"48,305",3rd,win
+362,0.01,2001–02,Sunderland,A,3–1,2,"48,305",3rd,win
+363,0,2001–02,Bolton Wanderers,H,1–2,1,"67,559",3rd,lose
+363,0.01,2001–02,Bolton Wanderers,H,1–2,1,"67,559",3rd,lose
+364,0,2001–02,Leeds United,H,1–1,0,"67,555",5th,draw
+364,0.01,2001–02,Leeds United,H,1–1,0,"67,555",5th,draw
+365,0,2001–02,Liverpool,A,1–3,2,"44,361",6th,lose
+365,0.01,2001–02,Liverpool,A,1–3,2,"44,361",6th,lose
+366,0,2001–02,Leicester City,H,2–0,2,"67,651",4th,win
+366,0.01,2001–02,Leicester City,H,2–0,2,"67,651",4th,win
+367,0,2001–02,Arsenal,A,1–3,2,"38,174",6th,lose
+367,0.01,2001–02,Arsenal,A,1–3,2,"38,174",6th,lose
+368,0,2001–02,Chelsea,H,0–3,3,"67,544",7th,lose
+368,0.01,2001–02,Chelsea,H,0–3,3,"67,544",7th,lose
+369,0,2001–02,West Ham United,H,0–1,1,"67,582",9th,lose
+369,0.01,2001–02,West Ham United,H,0–1,1,"67,582",9th,lose
+370,0,2001–02,Derby County,H,5–0,5,"67,577",5th,win
+370,0.01,2001–02,Derby County,H,5–0,5,"67,577",5th,win
+371,0,2001–02,Middlesbrough,A,1–0,1,"34,358",5th,win
+371,0.01,2001–02,Middlesbrough,A,1–0,1,"34,358",5th,win
+372,0,2001–02,Southampton,H,6–1,5,"67,638",4th,win
+372,0.01,2001–02,Southampton,H,6–1,5,"67,638",4th,win
+373,0,2001–02,Everton,A,2–0,2,"39,948",5th,win
+373,0.01,2001–02,Everton,A,2–0,2,"39,948",5th,win
+374,0,2001–02,Fulham,A,3–2,1,"21,159",5th,win
+374,0.01,2001–02,Fulham,A,3–2,1,"21,159",5th,win
+375,0,2001–02,Newcastle United,H,3–1,2,"67,646",2nd,win
+375,0.01,2001–02,Newcastle United,H,3–1,2,"67,646",2nd,win
+376,0,2001–02,Southampton,A,3–1,2,"31,858",1st,win
+376,0.01,2001–02,Southampton,A,3–1,2,"31,858",1st,win
+377,0,2001–02,Blackburn Rovers,H,2–1,1,"67,552",1st,win
+377,0.01,2001–02,Blackburn Rovers,H,2–1,1,"67,552",1st,win
+378,0,2001–02,Liverpool,H,0–1,1,"67,599",1st,lose
+378,0.01,2001–02,Liverpool,H,0–1,1,"67,599",1st,lose
+379,0,2001–02,Bolton Wanderers,A,4–0,4,"27,350",1st,win
+379,0.01,2001–02,Bolton Wanderers,A,4–0,4,"27,350",1st,win
+380,0,2001–02,Sunderland,H,4–1,3,"67,587",1st,win
+380,0.01,2001–02,Sunderland,H,4–1,3,"67,587",1st,win
+381,0,2001–02,Charlton Athletic,A,2–0,2,"26,475",1st,win
+381,0.01,2001–02,Charlton Athletic,A,2–0,2,"26,475",1st,win
+382,0,2001–02,Aston Villa,H,1–0,1,"67,592",1st,win
+382,0.01,2001–02,Aston Villa,H,1–0,1,"67,592",1st,win
+383,0,2001–02,Derby County,A,2–2,0,"33,041",1st,draw
+383,0.01,2001–02,Derby County,A,2–2,0,"33,041",1st,draw
+384,0,2001–02,Tottenham Hotspur,H,4–0,4,"67,599",1st,win
+384,0.01,2001–02,Tottenham Hotspur,H,4–0,4,"67,599",1st,win
+385,0,2001–02,West Ham United,A,5–3,2,"35,281",1st,win
+385,0.01,2001–02,West Ham United,A,5–3,2,"35,281",1st,win
+386,0,2001–02,Middlesbrough,H,0–1,1,"67,683",1st,lose
+386,0.01,2001–02,Middlesbrough,H,0–1,1,"67,683",1st,lose
+387,0,2001–02,Leeds United,A,4–3,1,"40,058",2nd,win
+387,0.01,2001–02,Leeds United,A,4–3,1,"40,058",2nd,win
+388,0,2001–02,Leicester City,A,1–0,1,"21,447",2nd,win
+388,0.01,2001–02,Leicester City,A,1–0,1,"21,447",2nd,win
+389,0,2001–02,Chelsea,A,3–0,3,"41,725",2nd,win
+389,0.01,2001–02,Chelsea,A,3–0,3,"41,725",2nd,win
+390,0,2001–02,Ipswich Town,A,1–0,1,"28,433",2nd,win
+390,0.01,2001–02,Ipswich Town,A,1–0,1,"28,433",2nd,win
+391,0,2001–02,Arsenal,H,0–1,1,"67,580",3rd,lose
+391,0.01,2001–02,Arsenal,H,0–1,1,"67,580",3rd,lose
+392,0,2001–02,Charlton Athletic,H,0–0,0,"67,571",3rd,draw
+392,0.01,2001–02,Charlton Athletic,H,0–0,0,"67,571",3rd,draw
+393,0,2002–03,West Bromwich Albion,H,1–0,1,"67,645",7th,win
+393,0.01,2002–03,West Bromwich Albion,H,1–0,1,"67,645",7th,win
+394,0,2002–03,Chelsea,A,2–2,0,"41,541",7th,draw
+394,0.01,2002–03,Chelsea,A,2–2,0,"41,541",7th,draw
+395,0,2002–03,Sunderland,A,1–1,0,"47,586",8th,draw
+395,0.01,2002–03,Sunderland,A,1–1,0,"47,586",8th,draw
+396,0,2002–03,Middlesbrough,H,1–0,1,"67,464",4th,win
+396,0.01,2002–03,Middlesbrough,H,1–0,1,"67,464",4th,win
+397,0,2002–03,Bolton Wanderers,H,0–1,1,"67,623",7th,lose
+397,0.01,2002–03,Bolton Wanderers,H,0–1,1,"67,623",7th,lose
+398,0,2002–03,Leeds United,A,0–1,1,"39,622",10th,lose
+398,0.01,2002–03,Leeds United,A,0–1,1,"39,622",10th,lose
+399,0,2002–03,Tottenham Hotspur,H,1–0,1,"67,611",8th,win
+399,0.01,2002–03,Tottenham Hotspur,H,1–0,1,"67,611",8th,win
+400,0,2002–03,Charlton Athletic,A,3–1,2,"26,630",4th,win
+400,0.01,2002–03,Charlton Athletic,A,3–1,2,"26,630",4th,win
+401,0,2002–03,Everton,H,3–0,3,"67,629",4th,win
+401,0.01,2002–03,Everton,H,3–0,3,"67,629",4th,win
+402,0,2002–03,Fulham,A,1–1,0,"18,103",4th,draw
+402,0.01,2002–03,Fulham,A,1–1,0,"18,103",4th,draw
+403,0,2002–03,Aston Villa,H,1–1,0,"67,619",4th,draw
+403,0.01,2002–03,Aston Villa,H,1–1,0,"67,619",4th,draw
+404,0,2002–03,Southampton,H,2–1,1,"67,691",3rd,win
+404,0.01,2002–03,Southampton,H,2–1,1,"67,691",3rd,win
+405,0,2002–03,Manchester City,A,1–3,2,"34,649",5th,lose
+405,0.01,2002–03,Manchester City,A,1–3,2,"34,649",5th,lose
+406,0,2002–03,West Ham United,A,1–1,0,"35,049",5th,draw
+406,0.01,2002–03,West Ham United,A,1–1,0,"35,049",5th,draw
+407,0,2002–03,Newcastle United,H,5–3,2,"67,625",5th,win
+407,0.01,2002–03,Newcastle United,H,5–3,2,"67,625",5th,win
+408,0,2002–03,Liverpool,A,2–1,1,"44,250",4th,win
+408,0.01,2002–03,Liverpool,A,2–1,1,"44,250",4th,win
+409,0,2002–03,Arsenal,H,2–0,2,"67,650",3rd,win
+409,0.01,2002–03,Arsenal,H,2–0,2,"67,650",3rd,win
+410,0,2002–03,West Ham United,H,3–0,3,"67,555",2nd,win
+410,0.01,2002–03,West Ham United,H,3–0,3,"67,555",2nd,win
+411,0,2002–03,Blackburn Rovers,A,0–1,1,"30,475",3rd,lose
+411,0.01,2002–03,Blackburn Rovers,A,0–1,1,"30,475",3rd,lose
+412,0,2002–03,Middlesbrough,A,1–3,2,"34,673",3rd,lose
+412,0.01,2002–03,Middlesbrough,A,1–3,2,"34,673",3rd,lose
+413,0,2002–03,Birmingham City,H,2–0,2,"67,640",3rd,win
+413,0.01,2002–03,Birmingham City,H,2–0,2,"67,640",3rd,win
+414,0,2002–03,Sunderland,H,2–1,1,"67,609",2nd,win
+414,0.01,2002–03,Sunderland,H,2–1,1,"67,609",2nd,win
+415,0,2002–03,West Bromwich Albion,A,3–1,2,"27,129",2nd,win
+415,0.01,2002–03,West Bromwich Albion,A,3–1,2,"27,129",2nd,win
+416,0,2002–03,Chelsea,H,2–1,1,"67,606",2nd,win
+416,0.01,2002–03,Chelsea,H,2–1,1,"67,606",2nd,win
+417,0,2002–03,Southampton,A,2–0,2,"32,085",2nd,win
+417,0.01,2002–03,Southampton,A,2–0,2,"32,085",2nd,win
+418,0,2002–03,Birmingham City,A,1–0,1,"29,475",2nd,win
+418,0.01,2002–03,Birmingham City,A,1–0,1,"29,475",2nd,win
+419,0,2002–03,Manchester City,H,1–1,0,"67,646",2nd,draw
+419,0.01,2002–03,Manchester City,H,1–1,0,"67,646",2nd,draw
+420,0,2002–03,Bolton Wanderers,A,1–1,0,"27,409",2nd,draw
+420,0.01,2002–03,Bolton Wanderers,A,1–1,0,"27,409",2nd,draw
+421,0,2002–03,Leeds United,H,2–1,1,"67,135",2nd,win
+421,0.01,2002–03,Leeds United,H,2–1,1,"67,135",2nd,win
+422,0,2002–03,Aston Villa,A,1–0,1,"42,602",2nd,win
+422,0.01,2002–03,Aston Villa,A,1–0,1,"42,602",2nd,win
+423,0,2002–03,Fulham,H,3–0,3,"67,706",2nd,win
+423,0.01,2002–03,Fulham,H,3–0,3,"67,706",2nd,win
+424,0,2002–03,Liverpool,H,4–0,4,"67,639",2nd,win
+424,0.01,2002–03,Liverpool,H,4–0,4,"67,639",2nd,win
+425,0,2002–03,Newcastle United,A,6–2,4,"52,164",1st,win
+425,0.01,2002–03,Newcastle United,A,6–2,4,"52,164",1st,win
+426,0,2002–03,Arsenal,A,2–2,0,"38,164",1st,draw
+426,0.01,2002–03,Arsenal,A,2–2,0,"38,164",1st,draw
+427,0,2002–03,Blackburn Rovers,H,3–1,2,"67,626",1st,win
+427,0.01,2002–03,Blackburn Rovers,H,3–1,2,"67,626",1st,win
+428,0,2002–03,Tottenham Hotspur,A,2–0,2,"36,073",1st,win
+428,0.01,2002–03,Tottenham Hotspur,A,2–0,2,"36,073",1st,win
+429,0,2002–03,Charlton Athletic,H,4–1,3,"67,721",1st,win
+429,0.01,2002–03,Charlton Athletic,H,4–1,3,"67,721",1st,win
+430,0,2002–03,Everton,A,2–1,1,"40,168",1st,win
+430,0.01,2002–03,Everton,A,2–1,1,"40,168",1st,win
+431,0,2003–04,Bolton Wanderers,H,4–0,4,"67,647",2nd,win
+431,0.01,2003–04,Bolton Wanderers,H,4–0,4,"67,647",2nd,win
+432,0,2003–04,Newcastle United,A,2–1,1,"52,165",3rd,win
+432,0.01,2003–04,Newcastle United,A,2–1,1,"52,165",3rd,win
+433,0,2003–04,Wolverhampton Wanderers,H,1–0,1,"67,648",2nd,win
+433,0.01,2003–04,Wolverhampton Wanderers,H,1–0,1,"67,648",2nd,win
+434,0,2003–04,Southampton,A,0–1,1,"32,066",2nd,lose
+434,0.01,2003–04,Southampton,A,0–1,1,"32,066",2nd,lose
+435,0,2003–04,Charlton Athletic,A,2–0,2,"26,078",2nd,win
+435,0.01,2003–04,Charlton Athletic,A,2–0,2,"26,078",2nd,win
+436,0,2003–04,Arsenal,H,0–0,0,"67,639",3rd,draw
+436,0.01,2003–04,Arsenal,H,0–0,0,"67,639",3rd,draw
+437,0,2003–04,Leicester City,A,4–1,3,"32,044",3rd,win
+437,0.01,2003–04,Leicester City,A,4–1,3,"32,044",3rd,win
+438,0,2003–04,Birmingham City,H,3–0,3,"67,633",2nd,win
+438,0.01,2003–04,Birmingham City,H,3–0,3,"67,633",2nd,win
+439,0,2003–04,Leeds United,A,1–0,1,"40,153",2nd,win
+439,0.01,2003–04,Leeds United,A,1–0,1,"40,153",2nd,win
+440,0,2003–04,Fulham,H,1–3,2,"67,727",3rd,lose
+440,0.01,2003–04,Fulham,H,1–3,2,"67,727",3rd,lose
+441,0,2003–04,Portsmouth,H,3–0,3,"67,639",3rd,win
+441,0.01,2003–04,Portsmouth,H,3–0,3,"67,639",3rd,win
+442,0,2003–04,Liverpool,A,2–1,1,"44,159",3rd,win
+442,0.01,2003–04,Liverpool,A,2–1,1,"44,159",3rd,win
+443,0,2003–04,Blackburn Rovers,H,2–1,1,"67,748",3rd,win
+443,0.01,2003–04,Blackburn Rovers,H,2–1,1,"67,748",3rd,win
+444,0,2003–04,Chelsea,A,0–1,1,"41,932",3rd,lose
+444,0.01,2003–04,Chelsea,A,0–1,1,"41,932",3rd,lose
+445,0,2003–04,Aston Villa,H,4–0,4,"67,621",3rd,win
+445,0.01,2003–04,Aston Villa,H,4–0,4,"67,621",3rd,win
+446,0,2003–04,Manchester City,H,3–1,2,"67,645",2nd,win
+446,0.01,2003–04,Manchester City,H,3–1,2,"67,645",2nd,win
+447,0,2003–04,Tottenham Hotspur,A,2–1,1,"35,910",1st,win
+447,0.01,2003–04,Tottenham Hotspur,A,2–1,1,"35,910",1st,win
+448,0,2003–04,Everton,H,3–2,1,"67,642",1st,win
+448,0.01,2003–04,Everton,H,3–2,1,"67,642",1st,win
+449,0,2003–04,Middlesbrough,A,1–0,1,"34,738",1st,win
+449,0.01,2003–04,Middlesbrough,A,1–0,1,"34,738",1st,win
+450,0,2003–04,Bolton Wanderers,A,2–1,1,"27,668",1st,win
+450,0.01,2003–04,Bolton Wanderers,A,2–1,1,"27,668",1st,win
+451,0,2003–04,Newcastle United,H,0–0,0,"67,622",1st,draw
+451,0.01,2003–04,Newcastle United,H,0–0,0,"67,622",1st,draw
+452,0,2003–04,Wolverhampton Wanderers,A,0–1,1,"29,396",2nd,lose
+452,0.01,2003–04,Wolverhampton Wanderers,A,0–1,1,"29,396",2nd,lose
+453,0,2003–04,Southampton,H,3–2,1,"67,758",2nd,win
+453,0.01,2003–04,Southampton,H,3–2,1,"67,758",2nd,win
+454,0,2003–04,Everton,A,4–3,1,"40,190",2nd,win
+454,0.01,2003–04,Everton,A,4–3,1,"40,190",2nd,win
+455,0,2003–04,Middlesbrough,H,2–3,1,"67,346",2nd,lose
+455,0.01,2003–04,Middlesbrough,H,2–3,1,"67,346",2nd,lose
+456,0,2003–04,Leeds United,H,1–1,0,"67,744",2nd,draw
+456,0.01,2003–04,Leeds United,H,1–1,0,"67,744",2nd,draw
+457,0,2003–04,Fulham,A,1–1,0,"18,306",3rd,draw
+457,0.01,2003–04,Fulham,A,1–1,0,"18,306",3rd,draw
+458,0,2003–04,Manchester City,A,1–4,3,"47,284",3rd,lose
+458,0.01,2003–04,Manchester City,A,1–4,3,"47,284",3rd,lose
+459,0,2003–04,Tottenham Hotspur,H,3–0,3,"67,634",3rd,win
+459,0.01,2003–04,Tottenham Hotspur,H,3–0,3,"67,634",3rd,win
+460,0,2003–04,Arsenal,A,1–1,0,"38,184",3rd,draw
+460,0.01,2003–04,Arsenal,A,1–1,0,"38,184",3rd,draw
+461,0,2003–04,Birmingham City,A,2–1,1,"29,548",3rd,win
+461,0.01,2003–04,Birmingham City,A,2–1,1,"29,548",3rd,win
+462,0,2003–04,Leicester City,H,1–0,1,"67,749",3rd,win
+462,0.01,2003–04,Leicester City,H,1–0,1,"67,749",3rd,win
+463,0,2003–04,Portsmouth,A,0–1,1,"20,140",3rd,lose
+463,0.01,2003–04,Portsmouth,A,0–1,1,"20,140",3rd,lose
+464,0,2003–04,Charlton Athletic,H,2–0,2,"67,477",3rd,win
+464,0.01,2003–04,Charlton Athletic,H,2–0,2,"67,477",3rd,win
+465,0,2003–04,Liverpool,H,0–1,1,"67,647",3rd,lose
+465,0.01,2003–04,Liverpool,H,0–1,1,"67,647",3rd,lose
+466,0,2003–04,Blackburn Rovers,A,0–1,1,"29,616",3rd,lose
+466,0.01,2003–04,Blackburn Rovers,A,0–1,1,"29,616",3rd,lose
+467,0,2003–04,Chelsea,H,1–1,0,"67,609",3rd,draw
+467,0.01,2003–04,Chelsea,H,1–1,0,"67,609",3rd,draw
+468,0,2003–04,Aston Villa,A,2–0,2,"42,573",3rd,win
+468,0.01,2003–04,Aston Villa,A,2–0,2,"42,573",3rd,win
+469,0,2004–05,Chelsea,A,0–1,1,"41,813",17th,lose
+469,0.01,2004–05,Chelsea,A,0–1,1,"41,813",17th,lose
+470,0,2004–05,Norwich City,H,2–1,1,"67,812",8th,win
+470,0.01,2004–05,Norwich City,H,2–1,1,"67,812",8th,win
+471,0,2004–05,Blackburn Rovers,A,1–1,0,"26,155",11th,draw
+471,0.01,2004–05,Blackburn Rovers,A,1–1,0,"26,155",11th,draw
+472,0,2004–05,Everton,H,0–0,0,"67,803",9th,draw
+472,0.01,2004–05,Everton,H,0–0,0,"67,803",9th,draw
+473,0,2004–05,Bolton Wanderers,A,2–2,0,"27,766",11th,draw
+473,0.01,2004–05,Bolton Wanderers,A,2–2,0,"27,766",11th,draw
+474,0,2004–05,Liverpool,H,2–1,1,"67,857",8th,win
+474,0.01,2004–05,Liverpool,H,2–1,1,"67,857",8th,win
+475,0,2004–05,Tottenham Hotspur,A,1–0,1,"36,103",5th,win
+475,0.01,2004–05,Tottenham Hotspur,A,1–0,1,"36,103",5th,win
+476,0,2004–05,Middlesbrough,H,1–1,0,"67,988",4th,draw
+476,0.01,2004–05,Middlesbrough,H,1–1,0,"67,988",4th,draw
+477,0,2004–05,Birmingham City,A,0–0,0,"29,221",6th,draw
+477,0.01,2004–05,Birmingham City,A,0–0,0,"29,221",6th,draw
+478,0,2004–05,Arsenal,H,2–0,2,"67,862",5th,win
+478,0.01,2004–05,Arsenal,H,2–0,2,"67,862",5th,win
+479,0,2004–05,Portsmouth,A,0–2,2,"20,190",7th,lose
+479,0.01,2004–05,Portsmouth,A,0–2,2,"20,190",7th,lose
+480,0,2004–05,Manchester City,H,0–0,0,"67,863",7th,draw
+480,0.01,2004–05,Manchester City,H,0–0,0,"67,863",7th,draw
+481,0,2004–05,Newcastle United,A,3–1,2,"52,320",7th,win
+481,0.01,2004–05,Newcastle United,A,3–1,2,"52,320",7th,win
+482,0,2004–05,Charlton Athletic,H,2–0,2,"67,704",6th,win
+482,0.01,2004–05,Charlton Athletic,H,2–0,2,"67,704",6th,win
+483,0,2004–05,West Bromwich Albion,A,3–0,3,"27,709",4th,win
+483,0.01,2004–05,West Bromwich Albion,A,3–0,3,"27,709",4th,win
+484,0,2004–05,Southampton,H,3–0,3,"67,921",4th,win
+484,0.01,2004–05,Southampton,H,3–0,3,"67,921",4th,win
+485,0,2004–05,Fulham,A,1–1,0,"21,940",4th,draw
+485,0.01,2004–05,Fulham,A,1–1,0,"21,940",4th,draw
+486,0,2004–05,Crystal Palace,H,5–2,3,"67,814",4th,win
+486,0.01,2004–05,Crystal Palace,H,5–2,3,"67,814",4th,win
+487,0,2004–05,Bolton Wanderers,H,2–0,2,"67,867",4th,win
+487,0.01,2004–05,Bolton Wanderers,H,2–0,2,"67,867",4th,win
+488,0,2004–05,Aston Villa,A,1–0,1,"42,593",3rd,win
+488,0.01,2004–05,Aston Villa,A,1–0,1,"42,593",3rd,win
+489,0,2004–05,Middlesbrough,A,2–0,2,"34,199",3rd,win
+489,0.01,2004–05,Middlesbrough,A,2–0,2,"34,199",3rd,win
+490,0,2004–05,Tottenham Hotspur,H,0–0,0,"67,962",3rd,draw
+490,0.01,2004–05,Tottenham Hotspur,H,0–0,0,"67,962",3rd,draw
+491,0,2004–05,Liverpool,A,1–0,1,"44,183",3rd,win
+491,0.01,2004–05,Liverpool,A,1–0,1,"44,183",3rd,win
+492,0,2004–05,Aston Villa,H,3–1,2,"67,589",3rd,win
+492,0.01,2004–05,Aston Villa,H,3–1,2,"67,589",3rd,win
+493,0,2004–05,Arsenal,A,4–2,2,"38,164",2nd,win
+493,0.01,2004–05,Arsenal,A,4–2,2,"38,164",2nd,win
+494,0,2004–05,Birmingham City,H,2–0,2,"67,838",2nd,win
+494,0.01,2004–05,Birmingham City,H,2–0,2,"67,838",2nd,win
+495,0,2004–05,Manchester City,A,2–0,2,"47,111",2nd,win
+495,0.01,2004–05,Manchester City,A,2–0,2,"47,111",2nd,win
+496,0,2004–05,Portsmouth,H,2–1,1,"67,989",2nd,win
+496,0.01,2004–05,Portsmouth,H,2–1,1,"67,989",2nd,win
+497,0,2004–05,Crystal Palace,A,0–0,0,"26,021",2nd,draw
+497,0.01,2004–05,Crystal Palace,A,0–0,0,"26,021",2nd,draw
+498,0,2004–05,Fulham,H,1–0,1,"67,959",2nd,win
+498,0.01,2004–05,Fulham,H,1–0,1,"67,959",2nd,win
+499,0,2004–05,Blackburn Rovers,H,0–0,0,"67,939",3rd,draw
+499,0.01,2004–05,Blackburn Rovers,H,0–0,0,"67,939",3rd,draw
+500,0,2004–05,Norwich City,A,0–2,2,"25,522",3rd,lose
+500,0.01,2004–05,Norwich City,A,0–2,2,"25,522",3rd,lose
+501,0,2004–05,Everton,A,0–1,1,"37,160",3rd,lose
+501,0.01,2004–05,Everton,A,0–1,1,"37,160",3rd,lose
+502,0,2004–05,Newcastle United,H,2–1,1,"67,845",3rd,win
+502,0.01,2004–05,Newcastle United,H,2–1,1,"67,845",3rd,win
+503,0,2004–05,Charlton Athletic,A,4–0,4,"26,789",3rd,win
+503,0.01,2004–05,Charlton Athletic,A,4–0,4,"26,789",3rd,win
+504,0,2004–05,West Bromwich Albion,H,1–1,0,"67,827",3rd,draw
+504,0.01,2004–05,West Bromwich Albion,H,1–1,0,"67,827",3rd,draw
+505,0,2004–05,Chelsea,H,1–3,2,"67,832",3rd,lose
+505,0.01,2004–05,Chelsea,H,1–3,2,"67,832",3rd,lose
+506,0,2004–05,Southampton,A,2–1,1,"32,066",3rd,win
+506,0.01,2004–05,Southampton,A,2–1,1,"32,066",3rd,win
+507,0,2005–06,Everton,A,2–0,2,"38,610",4th,win
+507,0.01,2005–06,Everton,A,2–0,2,"38,610",4th,win
+508,0,2005–06,Aston Villa,H,1–0,1,"67,934",4th,win
+508,0.01,2005–06,Aston Villa,H,1–0,1,"67,934",4th,win
+509,0,2005–06,Newcastle United,A,2–0,2,"52,327",4th,win
+509,0.01,2005–06,Newcastle United,A,2–0,2,"52,327",4th,win
+510,0,2005–06,Manchester City,H,1–1,0,"67,839",4th,draw
+510,0.01,2005–06,Manchester City,H,1–1,0,"67,839",4th,draw
+511,0,2005–06,Liverpool,A,0–0,0,"44,917",3rd,draw
+511,0.01,2005–06,Liverpool,A,0–0,0,"44,917",3rd,draw
+512,0,2005–06,Blackburn Rovers,H,1–2,1,"67,765",6th,lose
+512,0.01,2005–06,Blackburn Rovers,H,1–2,1,"67,765",6th,lose
+513,0,2005–06,Fulham,A,3–2,1,"21,862",4th,win
+513,0.01,2005–06,Fulham,A,3–2,1,"21,862",4th,win
+514,0,2005–06,Sunderland,A,3–1,2,"39,085",3rd,win
+514,0.01,2005–06,Sunderland,A,3–1,2,"39,085",3rd,win
+515,0,2005–06,Tottenham Hotspur,H,1–1,0,"67,856",5th,draw
+515,0.01,2005–06,Tottenham Hotspur,H,1–1,0,"67,856",5th,draw
+516,0,2005–06,Middlesbrough,A,1–4,3,"30,579",7th,lose
+516,0.01,2005–06,Middlesbrough,A,1–4,3,"30,579",7th,lose
+517,0,2005–06,Chelsea,H,1–0,1,"67,864",4th,win
+517,0.01,2005–06,Chelsea,H,1–0,1,"67,864",4th,win
+518,0,2005–06,Charlton Athletic,A,3–1,2,"26,730",3rd,win
+518,0.01,2005–06,Charlton Athletic,A,3–1,2,"26,730",3rd,win
+519,0,2005–06,West Ham United,A,2–1,1,"34,755",2nd,win
+519,0.01,2005–06,West Ham United,A,2–1,1,"34,755",2nd,win
+520,0,2005–06,Portsmouth,H,3–0,3,"67,684",2nd,win
+520,0.01,2005–06,Portsmouth,H,3–0,3,"67,684",2nd,win
+521,0,2005–06,Everton,H,1–1,0,"67,831",3rd,draw
+521,0.01,2005–06,Everton,H,1–1,0,"67,831",3rd,draw
+522,0,2005–06,Wigan Athletic,H,4–0,4,"67,793",2nd,win
+522,0.01,2005–06,Wigan Athletic,H,4–0,4,"67,793",2nd,win
+523,0,2005–06,Aston Villa,A,2–0,2,"37,128",2nd,win
+523,0.01,2005–06,Aston Villa,A,2–0,2,"37,128",2nd,win
+524,0,2005–06,West Bromwich Albion,H,3–0,3,"67,972",2nd,win
+524,0.01,2005–06,West Bromwich Albion,H,3–0,3,"67,972",2nd,win
+525,0,2005–06,Birmingham City,A,2–2,0,"28,459",2nd,draw
+525,0.01,2005–06,Birmingham City,A,2–2,0,"28,459",2nd,draw
+526,0,2005–06,Bolton Wanderers,H,4–1,3,"67,858",2nd,win
+526,0.01,2005–06,Bolton Wanderers,H,4–1,3,"67,858",2nd,win
+527,0,2005–06,Arsenal,A,0–0,0,"38,313",2nd,draw
+527,0.01,2005–06,Arsenal,A,0–0,0,"38,313",2nd,draw
+528,0,2005–06,Manchester City,A,1–3,2,"47,192",2nd,lose
+528,0.01,2005–06,Manchester City,A,1–3,2,"47,192",2nd,lose
+529,0,2005–06,Liverpool,H,1–0,1,"67,874",2nd,win
+529,0.01,2005–06,Liverpool,H,1–0,1,"67,874",2nd,win
+530,0,2005–06,Blackburn Rovers,A,3–4,1,"25,484",2nd,lose
+530,0.01,2005–06,Blackburn Rovers,A,3–4,1,"25,484",2nd,lose
+531,0,2005–06,Fulham,H,4–2,2,"67,844",2nd,win
+531,0.01,2005–06,Fulham,H,4–2,2,"67,844",2nd,win
+532,0,2005–06,Portsmouth,A,3–1,2,"20,206",2nd,win
+532,0.01,2005–06,Portsmouth,A,3–1,2,"20,206",2nd,win
+533,0,2005–06,Wigan Athletic,A,2–1,1,"23,524",2nd,win
+533,0.01,2005–06,Wigan Athletic,A,2–1,1,"23,524",2nd,win
+534,0,2005–06,Newcastle United,H,2–0,2,"67,858",2nd,win
+534,0.01,2005–06,Newcastle United,H,2–0,2,"67,858",2nd,win
+535,0,2005–06,West Bromwich Albion,A,2–1,1,"27,623",2nd,win
+535,0.01,2005–06,West Bromwich Albion,A,2–1,1,"27,623",2nd,win
+536,0,2005–06,Birmingham City,H,3–0,3,"69,070",2nd,win
+536,0.01,2005–06,Birmingham City,H,3–0,3,"69,070",2nd,win
+537,0,2005–06,West Ham United,H,1–0,1,"69,522",2nd,win
+537,0.01,2005–06,West Ham United,H,1–0,1,"69,522",2nd,win
+538,0,2005–06,Bolton Wanderers,A,2–1,1,"27,718",2nd,win
+538,0.01,2005–06,Bolton Wanderers,A,2–1,1,"27,718",2nd,win
+539,0,2005–06,Arsenal,H,2–0,2,"70,908",2nd,win
+539,0.01,2005–06,Arsenal,H,2–0,2,"70,908",2nd,win
+540,0,2005–06,Sunderland,H,0–0,0,"72,519",2nd,draw
+540,0.01,2005–06,Sunderland,H,0–0,0,"72,519",2nd,draw
+541,0,2005–06,Tottenham Hotspur,A,2–1,1,"36,141",2nd,win
+541,0.01,2005–06,Tottenham Hotspur,A,2–1,1,"36,141",2nd,win
+542,0,2005–06,Chelsea,A,0–3,3,"42,219",2nd,lose
+542,0.01,2005–06,Chelsea,A,0–3,3,"42,219",2nd,lose
+543,0,2005–06,Middlesbrough,H,0–0,0,"69,531",2nd,draw
+543,0.01,2005–06,Middlesbrough,H,0–0,0,"69,531",2nd,draw
+544,0,2005–06,Charlton Athletic,H,4–0,4,"73,006",2nd,win
+544,0.01,2005–06,Charlton Athletic,H,4–0,4,"73,006",2nd,win
+545,0,2006–07,Fulham,H,5–1,4,"75,115",1st,win
+545,0.01,2006–07,Fulham,H,5–1,4,"75,115",1st,win
+546,0,2006–07,Charlton Athletic,A,3–0,3,"25,422",1st,win
+546,0.01,2006–07,Charlton Athletic,A,3–0,3,"25,422",1st,win
+547,0,2006–07,Watford,A,2–1,1,"19,453",1st,win
+547,0.01,2006–07,Watford,A,2–1,1,"19,453",1st,win
+548,0,2006–07,Tottenham Hotspur,H,1–0,1,"75,453",1st,win
+548,0.01,2006–07,Tottenham Hotspur,H,1–0,1,"75,453",1st,win
+549,0,2006–07,Arsenal,H,0–1,1,"75,595",2nd,lose
+549,0.01,2006–07,Arsenal,H,0–1,1,"75,595",2nd,lose
+550,0,2006–07,Reading,A,1–1,0,"24,098",2nd,draw
+550,0.01,2006–07,Reading,A,1–1,0,"24,098",2nd,draw
+551,0,2006–07,Newcastle United,H,2–0,2,"75,664",1st,win
+551,0.01,2006–07,Newcastle United,H,2–0,2,"75,664",1st,win
+552,0,2006–07,Wigan Athletic,A,3–1,2,"20,631",1st,win
+552,0.01,2006–07,Wigan Athletic,A,3–1,2,"20,631",1st,win
+553,0,2006–07,Liverpool,H,2–0,2,"75,828",1st,win
+553,0.01,2006–07,Liverpool,H,2–0,2,"75,828",1st,win
+554,0,2006–07,Bolton Wanderers,A,4–0,4,"27,229",1st,win
+554,0.01,2006–07,Bolton Wanderers,A,4–0,4,"27,229",1st,win
+555,0,2006–07,Portsmouth,H,3–0,3,"76,004",1st,win
+555,0.01,2006–07,Portsmouth,H,3–0,3,"76,004",1st,win
+556,0,2006–07,Blackburn Rovers,A,1–0,1,"26,162",1st,win
+556,0.01,2006–07,Blackburn Rovers,A,1–0,1,"26,162",1st,win
+557,0,2006–07,Sheffield United,A,2–1,1,"32,584",1st,win
+557,0.01,2006–07,Sheffield United,A,2–1,1,"32,584",1st,win
+558,0,2006–07,Chelsea,H,1–1,0,"75,948",1st,draw
+558,0.01,2006–07,Chelsea,H,1–1,0,"75,948",1st,draw
+559,0,2006–07,Everton,H,3–0,3,"75,723",1st,win
+559,0.01,2006–07,Everton,H,3–0,3,"75,723",1st,win
+560,0,2006–07,Middlesbrough,A,2–1,1,"31,238",1st,win
+560,0.01,2006–07,Middlesbrough,A,2–1,1,"31,238",1st,win
+561,0,2006–07,Manchester City,H,3–1,2,"75,858",1st,win
+561,0.01,2006–07,Manchester City,H,3–1,2,"75,858",1st,win
+562,0,2006–07,West Ham United,A,0–1,1,"34,966",1st,lose
+562,0.01,2006–07,West Ham United,A,0–1,1,"34,966",1st,lose
+563,0,2006–07,Aston Villa,A,3–0,3,"42,551",1st,win
+563,0.01,2006–07,Aston Villa,A,3–0,3,"42,551",1st,win
+564,0,2006–07,Wigan Athletic,H,3–1,2,"76,018",1st,win
+564,0.01,2006–07,Wigan Athletic,H,3–1,2,"76,018",1st,win
+565,0,2006–07,Reading,H,3–2,1,"75,910",1st,win
+565,0.01,2006–07,Reading,H,3–2,1,"75,910",1st,win
+566,0,2006–07,Newcastle United,A,2–2,0,"52,302",1st,draw
+566,0.01,2006–07,Newcastle United,A,2–2,0,"52,302",1st,draw
+567,0,2006–07,Aston Villa,H,3–1,2,"76,078",1st,win
+567,0.01,2006–07,Aston Villa,H,3–1,2,"76,078",1st,win
+568,0,2006–07,Arsenal,A,1–2,1,"60,128",1st,lose
+568,0.01,2006–07,Arsenal,A,1–2,1,"60,128",1st,lose
+569,0,2006–07,Watford,H,4–0,4,"76,032",1st,win
+569,0.01,2006–07,Watford,H,4–0,4,"76,032",1st,win
+570,0,2006–07,Tottenham Hotspur,A,4–0,4,"36,146",1st,win
+570,0.01,2006–07,Tottenham Hotspur,A,4–0,4,"36,146",1st,win
+571,0,2006–07,Charlton Athletic,H,2–0,2,"75,883",1st,win
+571,0.01,2006–07,Charlton Athletic,H,2–0,2,"75,883",1st,win
+572,0,2006–07,Fulham,A,2–1,1,"24,459",1st,win
+572,0.01,2006–07,Fulham,A,2–1,1,"24,459",1st,win
+573,0,2006–07,Liverpool,A,1–0,1,"44,403",1st,win
+573,0.01,2006–07,Liverpool,A,1–0,1,"44,403",1st,win
+574,0,2006–07,Bolton Wanderers,H,4–1,3,"76,058",1st,win
+574,0.01,2006–07,Bolton Wanderers,H,4–1,3,"76,058",1st,win
+575,0,2006–07,Blackburn Rovers,H,4–1,3,"76,098",1st,win
+575,0.01,2006–07,Blackburn Rovers,H,4–1,3,"76,098",1st,win
+576,0,2006–07,Portsmouth,A,1–2,1,"20,223",1st,lose
+576,0.01,2006–07,Portsmouth,A,1–2,1,"20,223",1st,lose
+577,0,2006–07,Sheffield United,H,2–0,2,"75,540",1st,win
+577,0.01,2006–07,Sheffield United,H,2–0,2,"75,540",1st,win
+578,0,2006–07,Middlesbrough,H,1–1,0,"75,967",1st,draw
+578,0.01,2006–07,Middlesbrough,H,1–1,0,"75,967",1st,draw
+579,0,2006–07,Everton,A,4–2,2,"38,610",1st,win
+579,0.01,2006–07,Everton,A,4–2,2,"38,610",1st,win
+580,0,2006–07,Manchester City,A,1–0,1,"47,244",1st,win
+580,0.01,2006–07,Manchester City,A,1–0,1,"47,244",1st,win
+581,0,2006–07,Chelsea,A,0–0,0,"41,794",1st,draw
+581,0.01,2006–07,Chelsea,A,0–0,0,"41,794",1st,draw
+582,0,2006–07,West Ham United,H,0–1,1,"75,927",1st,lose
+582,0.01,2006–07,West Ham United,H,0–1,1,"75,927",1st,lose
+583,0,2007–08,Reading,H,0–0,0,"75,655",11th,draw
+583,0.01,2007–08,Reading,H,0–0,0,"75,655",11th,draw
+584,0,2007–08,Portsmouth,A,1–1,0,"20,510",12th,draw
+584,0.01,2007–08,Portsmouth,A,1–1,0,"20,510",12th,draw
+585,0,2007–08,Manchester City,A,0–1,1,"44,955",17th,lose
+585,0.01,2007–08,Manchester City,A,0–1,1,"44,955",17th,lose
+586,0,2007–08,Tottenham Hotspur,H,1–0,1,"75,696",10th,win
+586,0.01,2007–08,Tottenham Hotspur,H,1–0,1,"75,696",10th,win
+587,0,2007–08,Sunderland,H,1–0,1,"75,648",6th,win
+587,0.01,2007–08,Sunderland,H,1–0,1,"75,648",6th,win
+588,0,2007–08,Everton,A,1–0,1,"39,364",1st,win
+588,0.01,2007–08,Everton,A,1–0,1,"39,364",1st,win
+589,0,2007–08,Chelsea,H,2–0,2,"75,633",2nd,win
+589,0.01,2007–08,Chelsea,H,2–0,2,"75,633",2nd,win
+590,0,2007–08,Birmingham City,A,1–0,1,"26,526",2nd,win
+590,0.01,2007–08,Birmingham City,A,1–0,1,"26,526",2nd,win
+591,0,2007–08,Wigan Athletic,H,4–0,4,"75,300",1st,win
+591,0.01,2007–08,Wigan Athletic,H,4–0,4,"75,300",1st,win
+592,0,2007–08,Aston Villa,A,4–1,3,"42,640",2nd,win
+592,0.01,2007–08,Aston Villa,A,4–1,3,"42,640",2nd,win
+593,0,2007–08,Middlesbrough,H,4–1,3,"75,720",1st,win
+593,0.01,2007–08,Middlesbrough,H,4–1,3,"75,720",1st,win
+594,0,2007–08,Arsenal,A,2–2,0,"60,161",2nd,draw
+594,0.01,2007–08,Arsenal,A,2–2,0,"60,161",2nd,draw
+595,0,2007–08,Blackburn Rovers,H,2–0,2,"75,710",1st,win
+595,0.01,2007–08,Blackburn Rovers,H,2–0,2,"75,710",1st,win
+596,0,2007–08,Bolton Wanderers,A,0–1,1,"25,028",2nd,lose
+596,0.01,2007–08,Bolton Wanderers,A,0–1,1,"25,028",2nd,lose
+597,0,2007–08,Fulham,H,2–0,2,"75,055",2nd,win
+597,0.01,2007–08,Fulham,H,2–0,2,"75,055",2nd,win
+598,0,2007–08,Derby County,H,4–1,3,"75,725",2nd,win
+598,0.01,2007–08,Derby County,H,4–1,3,"75,725",2nd,win
+599,0,2007–08,Liverpool,A,1–0,1,"44,459",2nd,win
+599,0.01,2007–08,Liverpool,A,1–0,1,"44,459",2nd,win
+600,0,2007–08,Everton,H,2–1,1,"75,749",2nd,win
+600,0.01,2007–08,Everton,H,2–1,1,"75,749",2nd,win
+601,0,2007–08,Sunderland,A,4–0,4,"47,360",1st,win
+601,0.01,2007–08,Sunderland,A,4–0,4,"47,360",1st,win
+602,0,2007–08,West Ham United,A,1–2,1,"34,966",2nd,lose
+602,0.01,2007–08,West Ham United,A,1–2,1,"34,966",2nd,lose
+603,0,2007–08,Birmingham City,H,1–0,1,"75,459",2nd,win
+603,0.01,2007–08,Birmingham City,H,1–0,1,"75,459",2nd,win
+604,0,2007–08,Newcastle United,H,6–0,6,"75,965",1st,win
+604,0.01,2007–08,Newcastle United,H,6–0,6,"75,965",1st,win
+605,0,2007–08,Reading,A,2–0,2,"24,135",1st,win
+605,0.01,2007–08,Reading,A,2–0,2,"24,135",1st,win
+606,0,2007–08,Portsmouth,H,2–0,2,"75,415",1st,win
+606,0.01,2007–08,Portsmouth,H,2–0,2,"75,415",1st,win
+607,0,2007–08,Tottenham Hotspur,A,1–1,0,"36,075",2nd,draw
+607,0.01,2007–08,Tottenham Hotspur,A,1–1,0,"36,075",2nd,draw
+608,0,2007–08,Manchester City,H,1–2,1,"75,970",2nd,lose
+608,0.01,2007–08,Manchester City,H,1–2,1,"75,970",2nd,lose
+609,0,2007–08,Newcastle United,A,5–1,4,"52,291",2nd,win
+609,0.01,2007–08,Newcastle United,A,5–1,4,"52,291",2nd,win
+610,0,2007–08,Fulham,A,3–0,3,"25,314",2nd,win
+610,0.01,2007–08,Fulham,A,3–0,3,"25,314",2nd,win
+611,0,2007–08,Derby County,A,1–0,1,"33,072",1st,win
+611,0.01,2007–08,Derby County,A,1–0,1,"33,072",1st,win
+612,0,2007–08,Bolton Wanderers,H,2–0,2,"75,476",1st,win
+612,0.01,2007–08,Bolton Wanderers,H,2–0,2,"75,476",1st,win
+613,0,2007–08,Liverpool,H,3–0,3,"76,000",1st,win
+613,0.01,2007–08,Liverpool,H,3–0,3,"76,000",1st,win
+614,0,2007–08,Aston Villa,H,4–0,4,"75,932",1st,win
+614,0.01,2007–08,Aston Villa,H,4–0,4,"75,932",1st,win
+615,0,2007–08,Middlesbrough,A,2–2,0,"33,952",1st,draw
+615,0.01,2007–08,Middlesbrough,A,2–2,0,"33,952",1st,draw
+616,0,2007–08,Arsenal,H,2–1,1,"75,985",1st,win
+616,0.01,2007–08,Arsenal,H,2–1,1,"75,985",1st,win
+617,0,2007–08,Blackburn Rovers,A,1–1,0,"30,316",1st,draw
+617,0.01,2007–08,Blackburn Rovers,A,1–1,0,"30,316",1st,draw
+618,0,2007–08,Chelsea,A,1–2,1,"41,828",1st,lose
+618,0.01,2007–08,Chelsea,A,1–2,1,"41,828",1st,lose
+619,0,2007–08,West Ham United,H,4–1,3,"76,013",1st,win
+619,0.01,2007–08,West Ham United,H,4–1,3,"76,013",1st,win
+620,0,2007–08,Wigan Athletic,A,2–0,2,"25,133",1st,win
+620,0.01,2007–08,Wigan Athletic,A,2–0,2,"25,133",1st,win
+621,0,2008–09,Newcastle United,H,1–1,0,"75,512",10th,draw
+621,0.01,2008–09,Newcastle United,H,1–1,0,"75,512",10th,draw
+622,0,2008–09,Portsmouth,A,1–0,1,"20,540",5th,win
+622,0.01,2008–09,Portsmouth,A,1–0,1,"20,540",5th,win
+623,0,2008–09,Liverpool,A,1–2,1,"44,192",9th,lose
+623,0.01,2008–09,Liverpool,A,1–2,1,"44,192",9th,lose
+624,0,2008–09,Chelsea,A,1–1,0,"41,760",15th,draw
+624,0.01,2008–09,Chelsea,A,1–1,0,"41,760",15th,draw
+625,0,2008–09,Bolton Wanderers,H,2–0,2,"75,484",8th,win
+625,0.01,2008–09,Bolton Wanderers,H,2–0,2,"75,484",8th,win
+626,0,2008–09,Blackburn Rovers,A,2–0,2,"27,321",6th,win
+626,0.01,2008–09,Blackburn Rovers,A,2–0,2,"27,321",6th,win
+627,0,2008–09,West Bromwich Albion,H,4–0,4,"75,451",4th,win
+627,0.01,2008–09,West Bromwich Albion,H,4–0,4,"75,451",4th,win
+628,0,2008–09,Everton,A,1–1,0,"36,069",5th,draw
+628,0.01,2008–09,Everton,A,1–1,0,"36,069",5th,draw
+629,0,2008–09,West Ham United,H,2–0,2,"75,397",6th,win
+629,0.01,2008–09,West Ham United,H,2–0,2,"75,397",6th,win
+630,0,2008–09,Hull City,H,4–3,1,"75,398",3rd,win
+630,0.01,2008–09,Hull City,H,4–3,1,"75,398",3rd,win
+631,0,2008–09,Arsenal,A,1–2,1,"60,106",4th,lose
+631,0.01,2008–09,Arsenal,A,1–2,1,"60,106",4th,lose
+632,0,2008–09,Stoke City,H,5–0,5,"75,369",3rd,win
+632,0.01,2008–09,Stoke City,H,5–0,5,"75,369",3rd,win
+633,0,2008–09,Aston Villa,A,0–0,0,"42,585",3rd,draw
+633,0.01,2008–09,Aston Villa,A,0–0,0,"42,585",3rd,draw
+634,0,2008–09,Manchester City,A,1–0,1,"47,320",3rd,win
+634,0.01,2008–09,Manchester City,A,1–0,1,"47,320",3rd,win
+635,0,2008–09,Sunderland,H,1–0,1,"75,400",3rd,win
+635,0.01,2008–09,Sunderland,H,1–0,1,"75,400",3rd,win
+636,0,2008–09,Tottenham Hotspur,A,0–0,0,"35,882",3rd,draw
+636,0.01,2008–09,Tottenham Hotspur,A,0–0,0,"35,882",3rd,draw
+637,0,2008–09,Stoke City,A,1–0,1,"27,500",3rd,win
+637,0.01,2008–09,Stoke City,A,1–0,1,"27,500",3rd,win
+638,0,2008–09,Middlesbrough,H,1–0,1,"75,294",3rd,win
+638,0.01,2008–09,Middlesbrough,H,1–0,1,"75,294",3rd,win
+639,0,2008–09,Chelsea,H,3–0,3,"75,455",3rd,win
+639,0.01,2008–09,Chelsea,H,3–0,3,"75,455",3rd,win
+640,0,2008–09,Wigan Athletic,H,1–0,1,"73,917",2nd,win
+640,0.01,2008–09,Wigan Athletic,H,1–0,1,"73,917",2nd,win
+641,0,2008–09,Bolton Wanderers,A,1–0,1,"26,021",1st,win
+641,0.01,2008–09,Bolton Wanderers,A,1–0,1,"26,021",1st,win
+642,0,2008–09,West Bromwich Albion,A,5–0,5,"26,105",1st,win
+642,0.01,2008–09,West Bromwich Albion,A,5–0,5,"26,105",1st,win
+643,0,2008–09,Everton,H,1–0,1,"75,399",1st,win
+643,0.01,2008–09,Everton,H,1–0,1,"75,399",1st,win
+644,0,2008–09,West Ham United,A,1–0,1,"34,958",1st,win
+644,0.01,2008–09,West Ham United,A,1–0,1,"34,958",1st,win
+645,0,2008–09,Fulham,H,3–0,3,"75,437",1st,win
+645,0.01,2008–09,Fulham,H,3–0,3,"75,437",1st,win
+646,0,2008–09,Blackburn Rovers,H,2–1,1,"75,000",1st,win
+646,0.01,2008–09,Blackburn Rovers,H,2–1,1,"75,000",1st,win
+647,0,2008–09,Newcastle United,A,2–1,1,"51,636",1st,win
+647,0.01,2008–09,Newcastle United,A,2–1,1,"51,636",1st,win
+648,0,2008–09,Liverpool,H,1–4,3,"75,569",1st,lose
+648,0.01,2008–09,Liverpool,H,1–4,3,"75,569",1st,lose
+649,0,2008–09,Fulham,A,0–2,2,"25,652",1st,lose
+649,0.01,2008–09,Fulham,A,0–2,2,"25,652",1st,lose
+650,0,2008–09,Aston Villa,H,3–2,1,"75,409",1st,win
+650,0.01,2008–09,Aston Villa,H,3–2,1,"75,409",1st,win
+651,0,2008–09,Sunderland,A,2–1,1,"45,408",1st,win
+651,0.01,2008–09,Sunderland,A,2–1,1,"45,408",1st,win
+652,0,2008–09,Portsmouth,H,2–0,2,"74,895",1st,win
+652,0.01,2008–09,Portsmouth,H,2–0,2,"74,895",1st,win
+653,0,2008–09,Tottenham Hotspur,H,5–2,3,"75,458",1st,win
+653,0.01,2008–09,Tottenham Hotspur,H,5–2,3,"75,458",1st,win
+654,0,2008–09,Middlesbrough,A,2–0,2,"33,767",1st,win
+654,0.01,2008–09,Middlesbrough,A,2–0,2,"33,767",1st,win
+655,0,2008–09,Manchester City,H,2–0,2,"75,464",1st,win
+655,0.01,2008–09,Manchester City,H,2–0,2,"75,464",1st,win
+656,0,2008–09,Wigan Athletic,A,2–1,1,"21,286",1st,win
+656,0.01,2008–09,Wigan Athletic,A,2–1,1,"21,286",1st,win
+657,0,2008–09,Arsenal,H,0–0,0,"75,468",1st,draw
+657,0.01,2008–09,Arsenal,H,0–0,0,"75,468",1st,draw
+658,0,2008–09,Hull City,A,1–0,1,"24,945",1st,win
+658,0.01,2008–09,Hull City,A,1–0,1,"24,945",1st,win
+659,0,2009–10,Birmingham City,H,1–0,1,"75,062",9th,win
+659,0.01,2009–10,Birmingham City,H,1–0,1,"75,062",9th,win
+660,0,2009–10,Burnley,A,0–1,1,"20,872",10th,lose
+660,0.01,2009–10,Burnley,A,0–1,1,"20,872",10th,lose
+661,0,2009–10,Wigan Athletic,A,5–0,5,"18,164",3rd,win
+661,0.01,2009–10,Wigan Athletic,A,5–0,5,"18,164",3rd,win
+662,0,2009–10,Arsenal,H,2–1,1,"75,095",3rd,win
+662,0.01,2009–10,Arsenal,H,2–1,1,"75,095",3rd,win
+663,0,2009–10,Tottenham Hotspur,A,3–1,2,"35,785",2nd,win
+663,0.01,2009–10,Tottenham Hotspur,A,3–1,2,"35,785",2nd,win
+664,0,2009–10,Manchester City,H,4–3,1,"75,066",2nd,win
+664,0.01,2009–10,Manchester City,H,4–3,1,"75,066",2nd,win
+665,0,2009–10,Stoke City,A,2–0,2,"27,500",1st,win
+665,0.01,2009–10,Stoke City,A,2–0,2,"27,500",1st,win
+666,0,2009–10,Sunderland,H,2–2,0,"75,114",1st,draw
+666,0.01,2009–10,Sunderland,H,2–2,0,"75,114",1st,draw
+667,0,2009–10,Bolton Wanderers,H,2–1,1,"75,103",1st,win
+667,0.01,2009–10,Bolton Wanderers,H,2–1,1,"75,103",1st,win
+668,0,2009–10,Liverpool,A,0–2,2,"44,188",2nd,lose
+668,0.01,2009–10,Liverpool,A,0–2,2,"44,188",2nd,lose
+669,0,2009–10,Blackburn Rovers,H,2–0,2,"74,658",2nd,win
+669,0.01,2009–10,Blackburn Rovers,H,2–0,2,"74,658",2nd,win
+670,0,2009–10,Chelsea,A,0–1,1,"41,836",3rd,lose
+670,0.01,2009–10,Chelsea,A,0–1,1,"41,836",3rd,lose
+671,0,2009–10,Everton,H,3–0,3,"75,169",2nd,win
+671,0.01,2009–10,Everton,H,3–0,3,"75,169",2nd,win
+672,0,2009–10,Portsmouth,A,4–1,3,"20,482",2nd,win
+672,0.01,2009–10,Portsmouth,A,4–1,3,"20,482",2nd,win
+673,0,2009–10,West Ham United,A,4–0,4,"34,980",2nd,win
+673,0.01,2009–10,West Ham United,A,4–0,4,"34,980",2nd,win
+674,0,2009–10,Aston Villa,H,0–1,1,"75,130",2nd,lose
+674,0.01,2009–10,Aston Villa,H,0–1,1,"75,130",2nd,lose
+675,0,2009–10,Wolverhampton Wanderers,H,3–0,3,"73,709",2nd,win
+675,0.01,2009–10,Wolverhampton Wanderers,H,3–0,3,"73,709",2nd,win
+676,0,2009–10,Fulham,A,0–3,3,"25,700",2nd,lose
+676,0.01,2009–10,Fulham,A,0–3,3,"25,700",2nd,lose
+677,0,2009–10,Hull City,A,3–1,2,"24,627",2nd,win
+677,0.01,2009–10,Hull City,A,3–1,2,"24,627",2nd,win
+678,0,2009–10,Wigan Athletic,H,5–0,5,"74,560",2nd,win
+678,0.01,2009–10,Wigan Athletic,H,5–0,5,"74,560",2nd,win
+679,0,2009–10,Birmingham City,A,1–1,0,"28,907",2nd,draw
+679,0.01,2009–10,Birmingham City,A,1–1,0,"28,907",2nd,draw
+680,0,2009–10,Burnley,H,3–0,3,"75,120",2nd,win
+680,0.01,2009–10,Burnley,H,3–0,3,"75,120",2nd,win
+681,0,2009–10,Hull City,H,4–0,4,"73,933",1st,win
+681,0.01,2009–10,Hull City,H,4–0,4,"73,933",1st,win
+682,0,2009–10,Arsenal,A,3–1,2,"60,091",2nd,win
+682,0.01,2009–10,Arsenal,A,3–1,2,"60,091",2nd,win
+683,0,2009–10,Portsmouth,H,5–0,5,"74,684",1st,win
+683,0.01,2009–10,Portsmouth,H,5–0,5,"74,684",1st,win
+684,0,2009–10,Aston Villa,A,1–1,0,"42,788",2nd,draw
+684,0.01,2009–10,Aston Villa,A,1–1,0,"42,788",2nd,draw
+685,0,2009–10,Everton,A,1–3,2,"39,448",2nd,lose
+685,0.01,2009–10,Everton,A,1–3,2,"39,448",2nd,lose
+686,0,2009–10,West Ham United,H,3–0,3,"73,797",2nd,win
+686,0.01,2009–10,West Ham United,H,3–0,3,"73,797",2nd,win
+687,0,2009–10,Wolverhampton Wanderers,A,1–0,1,"28,883",1st,win
+687,0.01,2009–10,Wolverhampton Wanderers,A,1–0,1,"28,883",1st,win
+688,0,2009–10,Fulham,H,3–0,3,"75,207",1st,win
+688,0.01,2009–10,Fulham,H,3–0,3,"75,207",1st,win
+689,0,2009–10,Liverpool,H,2–1,1,"75,216",1st,win
+689,0.01,2009–10,Liverpool,H,2–1,1,"75,216",1st,win
+690,0,2009–10,Bolton Wanderers,A,4–0,4,"25,370",1st,win
+690,0.01,2009–10,Bolton Wanderers,A,4–0,4,"25,370",1st,win
+691,0,2009–10,Chelsea,H,1–2,1,"75,217",2nd,lose
+691,0.01,2009–10,Chelsea,H,1–2,1,"75,217",2nd,lose
+692,0,2009–10,Blackburn Rovers,A,0–0,0,"29,912",2nd,draw
+692,0.01,2009–10,Blackburn Rovers,A,0–0,0,"29,912",2nd,draw
+693,0,2009–10,Manchester City,A,1–0,1,"47,019",2nd,win
+693,0.01,2009–10,Manchester City,A,1–0,1,"47,019",2nd,win
+694,0,2009–10,Tottenham Hotspur,H,3–1,2,"75,268",1st,win
+694,0.01,2009–10,Tottenham Hotspur,H,3–1,2,"75,268",1st,win
+695,0,2009–10,Sunderland,A,1–0,1,"47,641",2nd,win
+695,0.01,2009–10,Sunderland,A,1–0,1,"47,641",2nd,win
+696,0,2009–10,Stoke City,H,4–0,4,"75,316",2nd,win
+696,0.01,2009–10,Stoke City,H,4–0,4,"75,316",2nd,win
+697,0,2010–11,Newcastle United,H,3–0,3,"75,221",4th,win
+697,0.01,2010–11,Newcastle United,H,3–0,3,"75,221",4th,win
+698,0,2010–11,Fulham,A,2–2,0,"25,643",3rd,draw
+698,0.01,2010–11,Fulham,A,2–2,0,"25,643",3rd,draw
+699,0,2010–11,West Ham United,H,3–0,3,"75,061",3rd,win
+699,0.01,2010–11,West Ham United,H,3–0,3,"75,061",3rd,win
+700,0,2010–11,Everton,A,3–3,0,"36,556",3rd,draw
+700,0.01,2010–11,Everton,A,3–3,0,"36,556",3rd,draw
+701,0,2010–11,Liverpool,H,3–2,1,"75,213",3rd,win
+701,0.01,2010–11,Liverpool,H,3–2,1,"75,213",3rd,win
+702,0,2010–11,Bolton Wanderers,A,2–2,0,"23,926",2nd,draw
+702,0.01,2010–11,Bolton Wanderers,A,2–2,0,"23,926",2nd,draw
+703,0,2010–11,Sunderland,A,0–0,0,"41,709",3rd,draw
+703,0.01,2010–11,Sunderland,A,0–0,0,"41,709",3rd,draw
+704,0,2010–11,West Bromwich Albion,H,2–2,0,"75,272",3rd,draw
+704,0.01,2010–11,West Bromwich Albion,H,2–2,0,"75,272",3rd,draw
+705,0,2010–11,Stoke City,A,2–1,1,"27,372",3rd,win
+705,0.01,2010–11,Stoke City,A,2–1,1,"27,372",3rd,win
+706,0,2010–11,Tottenham Hotspur,H,2–0,2,"75,223",3rd,win
+706,0.01,2010–11,Tottenham Hotspur,H,2–0,2,"75,223",3rd,win
+707,0,2010–11,Wolverhampton Wanderers,H,2–1,1,"75,285",2nd,win
+707,0.01,2010–11,Wolverhampton Wanderers,H,2–1,1,"75,285",2nd,win
+708,0,2010–11,Manchester City,A,0–0,0,"47,679",2nd,draw
+708,0.01,2010–11,Manchester City,A,0–0,0,"47,679",2nd,draw
+709,0,2010–11,Aston Villa,A,2–2,0,"40,073",3rd,draw
+709,0.01,2010–11,Aston Villa,A,2–2,0,"40,073",3rd,draw
+710,0,2010–11,Wigan Athletic,H,2–0,2,"74,181",2nd,win
+710,0.01,2010–11,Wigan Athletic,H,2–0,2,"74,181",2nd,win
+711,0,2010–11,Blackburn Rovers,H,7–1,6,"74,850",1st,win
+711,0.01,2010–11,Blackburn Rovers,H,7–1,6,"74,850",1st,win
+712,0,2010–11,Arsenal,H,1–0,1,"75,227",1st,win
+712,0.01,2010–11,Arsenal,H,1–0,1,"75,227",1st,win
+713,0,2010–11,Sunderland,H,2–0,2,"75,269",1st,win
+713,0.01,2010–11,Sunderland,H,2–0,2,"75,269",1st,win
+714,0,2010–11,Birmingham City,A,1–1,0,"28,242",1st,draw
+714,0.01,2010–11,Birmingham City,A,1–1,0,"28,242",1st,draw
+715,0,2010–11,West Bromwich Albion,A,2–1,1,"25,499",1st,win
+715,0.01,2010–11,West Bromwich Albion,A,2–1,1,"25,499",1st,win
+716,0,2010–11,Stoke City,H,2–1,1,"73,401",1st,win
+716,0.01,2010–11,Stoke City,H,2–1,1,"73,401",1st,win
+717,0,2010–11,Tottenham Hotspur,A,0–0,0,"35,828",1st,draw
+717,0.01,2010–11,Tottenham Hotspur,A,0–0,0,"35,828",1st,draw
+718,0,2010–11,Birmingham City,H,5–0,5,"75,326",1st,win
+718,0.01,2010–11,Birmingham City,H,5–0,5,"75,326",1st,win
+719,0,2010–11,Blackpool,A,3–2,1,"15,574",1st,win
+719,0.01,2010–11,Blackpool,A,3–2,1,"15,574",1st,win
+720,0,2010–11,Aston Villa,H,3–1,2,"75,256",1st,win
+720,0.01,2010–11,Aston Villa,H,3–1,2,"75,256",1st,win
+721,0,2010–11,Wolverhampton Wanderers,A,1–2,1,"28,811",1st,lose
+721,0.01,2010–11,Wolverhampton Wanderers,A,1–2,1,"28,811",1st,lose
+722,0,2010–11,Manchester City,H,2–1,1,"75,322",1st,win
+722,0.01,2010–11,Manchester City,H,2–1,1,"75,322",1st,win
+723,0,2010–11,Wigan Athletic,A,4–0,4,"18,140",1st,win
+723,0.01,2010–11,Wigan Athletic,A,4–0,4,"18,140",1st,win
+724,0,2010–11,Chelsea,A,1–2,1,"41,825",1st,lose
+724,0.01,2010–11,Chelsea,A,1–2,1,"41,825",1st,lose
+725,0,2010–11,Liverpool,A,1–3,2,"44,753",1st,lose
+725,0.01,2010–11,Liverpool,A,1–3,2,"44,753",1st,lose
+726,0,2010–11,Bolton Wanderers,H,1–0,1,"75,486",1st,win
+726,0.01,2010–11,Bolton Wanderers,H,1–0,1,"75,486",1st,win
+727,0,2010–11,West Ham United,A,4–2,2,"34,546",1st,win
+727,0.01,2010–11,West Ham United,A,4–2,2,"34,546",1st,win
+728,0,2010–11,Fulham,H,2–0,2,"75,339",1st,win
+728,0.01,2010–11,Fulham,H,2–0,2,"75,339",1st,win
+729,0,2010–11,Newcastle United,A,0–0,0,"49,025",1st,draw
+729,0.01,2010–11,Newcastle United,A,0–0,0,"49,025",1st,draw
+730,0,2010–11,Everton,H,1–0,1,"75,300",1st,win
+730,0.01,2010–11,Everton,H,1–0,1,"75,300",1st,win
+731,0,2010–11,Arsenal,A,0–1,1,"60,107",1st,lose
+731,0.01,2010–11,Arsenal,A,0–1,1,"60,107",1st,lose
+732,0,2010–11,Chelsea,H,2–1,1,"75,445",1st,win
+732,0.01,2010–11,Chelsea,H,2–1,1,"75,445",1st,win
+733,0,2010–11,Blackburn Rovers,A,1–1,0,"29,867",1st,draw
+733,0.01,2010–11,Blackburn Rovers,A,1–1,0,"29,867",1st,draw
+734,0,2010–11,Blackpool,H,4–2,2,"75,400",1st,win
+734,0.01,2010–11,Blackpool,H,4–2,2,"75,400",1st,win
+735,0,2011–12,West Bromwich Albion,A,2–1,1,"25,360",3rd,win
+735,0.01,2011–12,West Bromwich Albion,A,2–1,1,"25,360",3rd,win
+736,0,2011–12,Tottenham Hotspur,H,3–0,3,"75,498",2nd,win
+736,0.01,2011–12,Tottenham Hotspur,H,3–0,3,"75,498",2nd,win
+737,0,2011–12,Arsenal,H,8–2,6,"75,448",1st,win
+737,0.01,2011–12,Arsenal,H,8–2,6,"75,448",1st,win
+738,0,2011–12,Bolton Wanderers,A,5–0,5,"25,944",1st,win
+738,0.01,2011–12,Bolton Wanderers,A,5–0,5,"25,944",1st,win
+739,0,2011–12,Chelsea,H,3–1,2,"75,455",1st,win
+739,0.01,2011–12,Chelsea,H,3–1,2,"75,455",1st,win
+740,0,2011–12,Stoke City,A,1–1,0,"27,582",1st,draw
+740,0.01,2011–12,Stoke City,A,1–1,0,"27,582",1st,draw
+741,0,2011–12,Norwich City,H,2–0,2,"75,514",1st,win
+741,0.01,2011–12,Norwich City,H,2–0,2,"75,514",1st,win
+742,0,2011–12,Liverpool,A,1–1,0,"45,065",2nd,draw
+742,0.01,2011–12,Liverpool,A,1–1,0,"45,065",2nd,draw
+743,0,2011–12,Manchester City,H,1–6,5,"75,487",2nd,lose
+743,0.01,2011–12,Manchester City,H,1–6,5,"75,487",2nd,lose
+744,0,2011–12,Everton,A,1–0,1,"35,494",2nd,win
+744,0.01,2011–12,Everton,A,1–0,1,"35,494",2nd,win
+745,0,2011–12,Sunderland,H,1–0,1,"75,570",2nd,win
+745,0.01,2011–12,Sunderland,H,1–0,1,"75,570",2nd,win
+746,0,2011–12,Swansea City,A,1–0,1,"20,295",2nd,win
+746,0.01,2011–12,Swansea City,A,1–0,1,"20,295",2nd,win
+747,0,2011–12,Newcastle United,H,1–1,0,"75,594",2nd,draw
+747,0.01,2011–12,Newcastle United,H,1–1,0,"75,594",2nd,draw
+748,0,2011–12,Aston Villa,A,1–0,1,"40,053",2nd,win
+748,0.01,2011–12,Aston Villa,A,1–0,1,"40,053",2nd,win
+749,0,2011–12,Wolverhampton Wanderers,H,4–1,3,"75,627",2nd,win
+749,0.01,2011–12,Wolverhampton Wanderers,H,4–1,3,"75,627",2nd,win
+750,0,2011–12,Queens Park Rangers,A,2–0,2,"18,033",2nd,win
+750,0.01,2011–12,Queens Park Rangers,A,2–0,2,"18,033",2nd,win
+751,0,2011–12,Fulham,A,5–0,5,"25,700",2nd,win
+751,0.01,2011–12,Fulham,A,5–0,5,"25,700",2nd,win
+752,0,2011–12,Wigan Athletic,H,5–0,5,"75,183",2nd,win
+752,0.01,2011–12,Wigan Athletic,H,5–0,5,"75,183",2nd,win
+753,0,2011–12,Blackburn Rovers,H,2–3,1,"75,146",2nd,lose
+753,0.01,2011–12,Blackburn Rovers,H,2–3,1,"75,146",2nd,lose
+754,0,2011–12,Newcastle United,A,0–3,3,"52,299",2nd,lose
+754,0.01,2011–12,Newcastle United,A,0–3,3,"52,299",2nd,lose
+755,0,2011–12,Bolton Wanderers,H,3–0,3,"75,444",2nd,win
+755,0.01,2011–12,Bolton Wanderers,H,3–0,3,"75,444",2nd,win
+756,0,2011–12,Arsenal,A,2–1,1,"60,093",2nd,win
+756,0.01,2011–12,Arsenal,A,2–1,1,"60,093",2nd,win
+757,0,2011–12,Stoke City,H,2–0,2,"74,719",2nd,win
+757,0.01,2011–12,Stoke City,H,2–0,2,"74,719",2nd,win
+758,0,2011–12,Chelsea,A,3–3,0,"41,668",2nd,draw
+758,0.01,2011–12,Chelsea,A,3–3,0,"41,668",2nd,draw
+759,0,2011–12,Liverpool,H,2–1,1,"74,844",1st,win
+759,0.01,2011–12,Liverpool,H,2–1,1,"74,844",1st,win
+760,0,2011–12,Norwich City,A,2–1,1,"26,811",2nd,win
+760,0.01,2011–12,Norwich City,A,2–1,1,"26,811",2nd,win
+761,0,2011–12,Tottenham Hotspur,A,3–1,2,"36,034",2nd,win
+761,0.01,2011–12,Tottenham Hotspur,A,3–1,2,"36,034",2nd,win
+762,0,2011–12,West Bromwich Albion,H,2–0,2,"75,598",1st,win
+762,0.01,2011–12,West Bromwich Albion,H,2–0,2,"75,598",1st,win
+763,0,2011–12,Wolverhampton Wanderers,A,5–0,5,"27,494",1st,win
+763,0.01,2011–12,Wolverhampton Wanderers,A,5–0,5,"27,494",1st,win
+764,0,2011–12,Fulham,H,1–0,1,"75,570",1st,win
+764,0.01,2011–12,Fulham,H,1–0,1,"75,570",1st,win
+765,0,2011–12,Blackburn Rovers,A,2–0,2,"26,532",1st,win
+765,0.01,2011–12,Blackburn Rovers,A,2–0,2,"26,532",1st,win
+766,0,2011–12,Queens Park Rangers,H,2–0,2,"75,505",1st,win
+766,0.01,2011–12,Queens Park Rangers,H,2–0,2,"75,505",1st,win
+767,0,2011–12,Wigan Athletic,A,0–1,1,"18,115",1st,lose
+767,0.01,2011–12,Wigan Athletic,A,0–1,1,"18,115",1st,lose
+768,0,2011–12,Aston Villa,H,4–0,4,"75,138",1st,win
+768,0.01,2011–12,Aston Villa,H,4–0,4,"75,138",1st,win
+769,0,2011–12,Everton,H,4–4,0,"75,522",1st,draw
+769,0.01,2011–12,Everton,H,4–4,0,"75,522",1st,draw
+770,0,2011–12,Manchester City,A,0–1,1,"47,259",2nd,lose
+770,0.01,2011–12,Manchester City,A,0–1,1,"47,259",2nd,lose
+771,0,2011–12,Swansea City,H,2–0,2,"75,496",2nd,win
+771,0.01,2011–12,Swansea City,H,2–0,2,"75,496",2nd,win
+772,0,2011–12,Sunderland,A,1–0,1,"46,452",2nd,win
+772,0.01,2011–12,Sunderland,A,1–0,1,"46,452",2nd,win
+773,0,2012–13,Everton,A,0–1,1,"38,415",16th,lose
+773,0.01,2012–13,Everton,A,0–1,1,"38,415",16th,lose
+774,0,2012–13,Fulham,H,3–2,1,"75,352",7th,win
+774,0.01,2012–13,Fulham,H,3–2,1,"75,352",7th,win
+775,0,2012–13,Southampton,A,3–2,1,"31,609",5th,win
+775,0.01,2012–13,Southampton,A,3–2,1,"31,609",5th,win
+776,0,2012–13,Wigan Athletic,H,4–0,4,"75,142",2nd,win
+776,0.01,2012–13,Wigan Athletic,H,4–0,4,"75,142",2nd,win
+777,0,2012–13,Liverpool,A,2–1,1,"44,263",2nd,win
+777,0.01,2012–13,Liverpool,A,2–1,1,"44,263",2nd,win
+778,0,2012–13,Tottenham Hotspur,H,2–3,1,"75,566",3rd,lose
+778,0.01,2012–13,Tottenham Hotspur,H,2–3,1,"75,566",3rd,lose
+779,0,2012–13,Newcastle United,A,3–0,3,"52,203",2nd,win
+779,0.01,2012–13,Newcastle United,A,3–0,3,"52,203",2nd,win
+780,0,2012–13,Stoke City,H,4–2,2,"75,585",2nd,win
+780,0.01,2012–13,Stoke City,H,4–2,2,"75,585",2nd,win
+781,0,2012–13,Chelsea,A,3–2,1,"41,644",2nd,win
+781,0.01,2012–13,Chelsea,A,3–2,1,"41,644",2nd,win
+782,0,2012–13,Arsenal,H,2–1,1,"75,492",1st,win
+782,0.01,2012–13,Arsenal,H,2–1,1,"75,492",1st,win
+783,0,2012–13,Aston Villa,A,3–2,1,"40,538",1st,win
+783,0.01,2012–13,Aston Villa,A,3–2,1,"40,538",1st,win
+784,0,2012–13,Norwich City,A,0–1,1,"26,840",2nd,lose
+784,0.01,2012–13,Norwich City,A,0–1,1,"26,840",2nd,lose
+785,0,2012–13,Queens Park Rangers,H,3–1,2,"75,603",1st,win
+785,0.01,2012–13,Queens Park Rangers,H,3–1,2,"75,603",1st,win
+786,0,2012–13,West Ham United,H,1–0,1,"75,572",1st,win
+786,0.01,2012–13,West Ham United,H,1–0,1,"75,572",1st,win
+787,0,2012–13,Reading,A,4–3,1,"24,095",1st,win
+787,0.01,2012–13,Reading,A,4–3,1,"24,095",1st,win
+788,0,2012–13,Manchester City,A,3–2,1,"47,166",1st,win
+788,0.01,2012–13,Manchester City,A,3–2,1,"47,166",1st,win
+789,0,2012–13,Sunderland,H,3–1,2,"75,582",1st,win
+789,0.01,2012–13,Sunderland,H,3–1,2,"75,582",1st,win
+790,0,2012–13,Swansea City,A,1–1,0,"20,650",1st,draw
+790,0.01,2012–13,Swansea City,A,1–1,0,"20,650",1st,draw
+791,0,2012–13,Newcastle United,H,4–3,1,"75,596",1st,win
+791,0.01,2012–13,Newcastle United,H,4–3,1,"75,596",1st,win
+792,0,2012–13,West Bromwich Albion,H,2–0,2,"75,595",1st,win
+792,0.01,2012–13,West Bromwich Albion,H,2–0,2,"75,595",1st,win
+793,0,2012–13,Wigan Athletic,A,4–0,4,"20,342",1st,win
+793,0.01,2012–13,Wigan Athletic,A,4–0,4,"20,342",1st,win
+794,0,2012–13,Liverpool,H,2–1,1,"75,501",1st,win
+794,0.01,2012–13,Liverpool,H,2–1,1,"75,501",1st,win
+795,0,2012–13,Tottenham Hotspur,A,1–1,0,"35,956",1st,draw
+795,0.01,2012–13,Tottenham Hotspur,A,1–1,0,"35,956",1st,draw
+796,0,2012–13,Southampton,H,2–1,1,"75,600",1st,win
+796,0.01,2012–13,Southampton,H,2–1,1,"75,600",1st,win
+797,0,2012–13,Fulham,A,1–0,1,"25,670",1st,win
+797,0.01,2012–13,Fulham,A,1–0,1,"25,670",1st,win
+798,0,2012–13,Everton,H,2–0,2,"75,525",1st,win
+798,0.01,2012–13,Everton,H,2–0,2,"75,525",1st,win
+799,0,2012–13,Queens Park Rangers,A,2–0,2,"18,337",1st,win
+799,0.01,2012–13,Queens Park Rangers,A,2–0,2,"18,337",1st,win
+800,0,2012–13,Norwich City,H,4–0,4,"75,586",1st,win
+800,0.01,2012–13,Norwich City,H,4–0,4,"75,586",1st,win
+801,0,2012–13,Reading,H,1–0,1,"75,605",1st,win
+801,0.01,2012–13,Reading,H,1–0,1,"75,605",1st,win
+802,0,2012–13,Sunderland,A,1–0,1,"43,760",1st,win
+802,0.01,2012–13,Sunderland,A,1–0,1,"43,760",1st,win
+803,0,2012–13,Manchester City,H,1–2,1,"75,498",1st,lose
+803,0.01,2012–13,Manchester City,H,1–2,1,"75,498",1st,lose
+804,0,2012–13,Stoke City,A,2–0,2,"27,191",1st,win
+804,0.01,2012–13,Stoke City,A,2–0,2,"27,191",1st,win
+805,0,2012–13,West Ham United,A,2–2,0,"34,692",1st,draw
+805,0.01,2012–13,West Ham United,A,2–2,0,"34,692",1st,draw
+806,0,2012–13,Aston Villa,H,3–0,3,"75,591",1st,win
+806,0.01,2012–13,Aston Villa,H,3–0,3,"75,591",1st,win
+807,0,2012–13,Arsenal,A,1–1,0,"60,112",1st,draw
+807,0.01,2012–13,Arsenal,A,1–1,0,"60,112",1st,draw
+808,0,2012–13,Chelsea,H,0–1,1,"75,500",1st,lose
+808,0.01,2012–13,Chelsea,H,0–1,1,"75,500",1st,lose
+809,0,2012–13,Swansea City,H,2–1,1,"75,572",1st,win
+809,0.01,2012–13,Swansea City,H,2–1,1,"75,572",1st,win
+810,0,2012–13,West Bromwich Albion,A,5–5,0,"26,438",1st,draw
+810,0.01,2012–13,West Bromwich Albion,A,5–5,0,"26,438",1st,draw
+811,0,2013–14,Swansea City,A,4–1,3,"20,733",1st,win
+811,0.01,2013–14,Swansea City,A,4–1,3,"20,733",1st,win
+812,0,2013–14,Chelsea,H,0–0,0,"75,032",4th,draw
+812,0.01,2013–14,Chelsea,H,0–0,0,"75,032",4th,draw
+813,0,2013–14,Liverpool,A,0–1,1,"44,411",7th,lose
+813,0.01,2013–14,Liverpool,A,0–1,1,"44,411",7th,lose
+814,0,2013–14,Crystal Palace,H,2–0,2,"75,170",5th,win
+814,0.01,2013–14,Crystal Palace,H,2–0,2,"75,170",5th,win
+815,0,2013–14,Manchester City,A,1–4,3,"47,156",8th,lose
+815,0.01,2013–14,Manchester City,A,1–4,3,"47,156",8th,lose
+816,0,2013–14,West Bromwich Albion,H,1–2,1,"75,042",12th,lose
+816,0.01,2013–14,West Bromwich Albion,H,1–2,1,"75,042",12th,lose
+817,0,2013–14,Sunderland,A,2–1,1,"45,426",9th,win
+817,0.01,2013–14,Sunderland,A,2–1,1,"45,426",9th,win
+818,0,2013–14,Southampton,H,1–1,0,"75,220",8th,draw
+818,0.01,2013–14,Southampton,H,1–1,0,"75,220",8th,draw
+819,0,2013–14,Stoke City,H,3–2,1,"75,274",8th,win
+819,0.01,2013–14,Stoke City,H,3–2,1,"75,274",8th,win
+820,0,2013–14,Fulham,A,3–1,2,"25,700",8th,win
+820,0.01,2013–14,Fulham,A,3–1,2,"25,700",8th,win
+821,0,2013–14,Arsenal,H,1–0,1,"75,138",5th,win
+821,0.01,2013–14,Arsenal,H,1–0,1,"75,138",5th,win
+822,0,2013–14,Cardiff City,A,2–2,0,"28,016",6th,draw
+822,0.01,2013–14,Cardiff City,A,2–2,0,"28,016",6th,draw
+823,0,2013–14,Tottenham Hotspur,A,2–2,0,"35,884",8th,draw
+823,0.01,2013–14,Tottenham Hotspur,A,2–2,0,"35,884",8th,draw
+824,0,2013–14,Everton,H,0–1,1,"75,210",9th,lose
+824,0.01,2013–14,Everton,H,0–1,1,"75,210",9th,lose
+825,0,2013–14,Newcastle United,H,0–1,1,"75,233",9th,lose
+825,0.01,2013–14,Newcastle United,H,0–1,1,"75,233",9th,lose
+826,0,2013–14,Aston Villa,A,3–0,3,"42,682",8th,win
+826,0.01,2013–14,Aston Villa,A,3–0,3,"42,682",8th,win
+827,0,2013–14,West Ham United,H,3–1,2,"75,350",7th,win
+827,0.01,2013–14,West Ham United,H,3–1,2,"75,350",7th,win
+828,0,2013–14,Hull City,A,3–2,1,"24,826",7th,win
+828,0.01,2013–14,Hull City,A,3–2,1,"24,826",7th,win
+829,0,2013–14,Norwich City,A,1–0,1,"26,851",6th,win
+829,0.01,2013–14,Norwich City,A,1–0,1,"26,851",6th,win
+830,0,2013–14,Tottenham Hotspur,H,1–2,1,"75,265",7th,lose
+830,0.01,2013–14,Tottenham Hotspur,H,1–2,1,"75,265",7th,lose
+831,0,2013–14,Swansea City,H,2–0,2,"75,035",7th,win
+831,0.01,2013–14,Swansea City,H,2–0,2,"75,035",7th,win
+832,0,2013–14,Chelsea,A,1–3,2,"41,465",7th,lose
+832,0.01,2013–14,Chelsea,A,1–3,2,"41,465",7th,lose
+833,0,2013–14,Cardiff City,H,2–0,2,"75,301",7th,win
+833,0.01,2013–14,Cardiff City,H,2–0,2,"75,301",7th,win
+834,0,2013–14,Stoke City,A,1–2,1,"26,547",7th,lose
+834,0.01,2013–14,Stoke City,A,1–2,1,"26,547",7th,lose
+835,0,2013–14,Fulham,H,2–2,0,"74,966",7th,draw
+835,0.01,2013–14,Fulham,H,2–2,0,"74,966",7th,draw
+836,0,2013–14,Arsenal,A,0–0,0,"60,021",7th,draw
+836,0.01,2013–14,Arsenal,A,0–0,0,"60,021",7th,draw
+837,0,2013–14,Crystal Palace,A,2–0,2,"24,571",7th,win
+837,0.01,2013–14,Crystal Palace,A,2–0,2,"24,571",7th,win
+838,0,2013–14,West Bromwich Albion,A,3–0,3,"26,184",6th,win
+838,0.01,2013–14,West Bromwich Albion,A,3–0,3,"26,184",6th,win
+839,0,2013–14,Liverpool,H,0–3,3,"75,225",7th,lose
+839,0.01,2013–14,Liverpool,H,0–3,3,"75,225",7th,lose
+840,0,2013–14,West Ham United,A,2–0,2,"34,237",7th,win
+840,0.01,2013–14,West Ham United,A,2–0,2,"34,237",7th,win
+841,0,2013–14,Manchester City,H,0–3,3,"75,203",7th,lose
+841,0.01,2013–14,Manchester City,H,0–3,3,"75,203",7th,lose
+842,0,2013–14,Aston Villa,H,4–1,3,"75,368",7th,win
+842,0.01,2013–14,Aston Villa,H,4–1,3,"75,368",7th,win
+843,0,2013–14,Newcastle United,A,4–0,4,"52,081",6th,win
+843,0.01,2013–14,Newcastle United,A,4–0,4,"52,081",6th,win
+844,0,2013–14,Everton,A,0–2,2,"39,436",7th,lose
+844,0.01,2013–14,Everton,A,0–2,2,"39,436",7th,lose
+845,0,2013–14,Norwich City,H,4–0,4,"75,208",7th,win
+845,0.01,2013–14,Norwich City,H,4–0,4,"75,208",7th,win
+846,0,2013–14,Sunderland,H,0–1,1,"75,347",7th,lose
+846,0.01,2013–14,Sunderland,H,0–1,1,"75,347",7th,lose
+847,0,2013–14,Hull City,H,3–1,2,"75,341",7th,win
+847,0.01,2013–14,Hull City,H,3–1,2,"75,341",7th,win
+848,0,2013–14,Southampton,A,1–1,0,"31,372",7th,draw
+848,0.01,2013–14,Southampton,A,1–1,0,"31,372",7th,draw
+849,0,2014–15,Swansea City,H,1–2,1,"75,339",16th,lose
+849,0.01,2014–15,Swansea City,H,1–2,1,"75,339",16th,lose
+850,0,2014–15,Sunderland,A,1–1,0,"43,217",13th,draw
+850,0.01,2014–15,Sunderland,A,1–1,0,"43,217",13th,draw
+851,0,2014–15,Burnley,A,0–0,0,"31,399",14th,draw
+851,0.01,2014–15,Burnley,A,0–0,0,"31,399",14th,draw
+852,0,2014–15,Queens Park Rangers,H,4–0,4,"75,355",9th,win
+852,0.01,2014–15,Queens Park Rangers,H,4–0,4,"75,355",9th,win
+853,0,2014–15,Leicester City,A,3–5,2,"31,784",12th,lose
+853,0.01,2014–15,Leicester City,A,3–5,2,"31,784",12th,lose
+854,0,2014–15,West Ham United,H,2–1,1,"75,317",7th,win
+854,0.01,2014–15,West Ham United,H,2–1,1,"75,317",7th,win
+855,0,2014–15,Everton,H,2–1,1,"75,294",4th,win
+855,0.01,2014–15,Everton,H,2–1,1,"75,294",4th,win
+856,0,2014–15,West Bromwich Albion,A,2–2,0,"25,794",6th,draw
+856,0.01,2014–15,West Bromwich Albion,A,2–2,0,"25,794",6th,draw
+857,0,2014–15,Chelsea,H,1–1,0,"75,327",8th,draw
+857,0.01,2014–15,Chelsea,H,1–1,0,"75,327",8th,draw
+858,0,2014–15,Manchester City,A,0–1,1,"45,358",9th,lose
+858,0.01,2014–15,Manchester City,A,0–1,1,"45,358",9th,lose
+859,0,2014–15,Crystal Palace,H,1–0,1,"75,325",6th,win
+859,0.01,2014–15,Crystal Palace,H,1–0,1,"75,325",6th,win
+860,0,2014–15,Arsenal,A,2–1,1,"60,074",4th,win
+860,0.01,2014–15,Arsenal,A,2–1,1,"60,074",4th,win
+861,0,2014–15,Hull City,H,3–0,3,"75,345",4th,win
+861,0.01,2014–15,Hull City,H,3–0,3,"75,345",4th,win
+862,0,2014–15,Stoke City,H,2–1,1,"75,388",4th,win
+862,0.01,2014–15,Stoke City,H,2–1,1,"75,388",4th,win
+863,0,2014–15,Southampton,A,2–1,1,"31,420",3rd,win
+863,0.01,2014–15,Southampton,A,2–1,1,"31,420",3rd,win
+864,0,2014–15,Liverpool,H,3–0,3,"75,331",3rd,win
+864,0.01,2014–15,Liverpool,H,3–0,3,"75,331",3rd,win
+865,0,2014–15,Aston Villa,A,1–1,0,"41,273",3rd,draw
+865,0.01,2014–15,Aston Villa,A,1–1,0,"41,273",3rd,draw
+866,0,2014–15,Newcastle United,H,3–1,2,"75,318",3rd,win
+866,0.01,2014–15,Newcastle United,H,3–1,2,"75,318",3rd,win
+867,0,2014–15,Tottenham Hotspur,A,0–0,0,"35,711",3rd,draw
+867,0.01,2014–15,Tottenham Hotspur,A,0–0,0,"35,711",3rd,draw
+868,0,2014–15,Stoke City,A,1–1,0,"27,203",3rd,draw
+868,0.01,2014–15,Stoke City,A,1–1,0,"27,203",3rd,draw
+869,0,2014–15,Southampton,H,0–1,1,"75,395",4th,lose
+869,0.01,2014–15,Southampton,H,0–1,1,"75,395",4th,lose
+870,0,2014–15,Queens Park Rangers,A,2–0,2,"18,098",4th,win
+870,0.01,2014–15,Queens Park Rangers,A,2–0,2,"18,098",4th,win
+871,0,2014–15,Leicester City,H,3–1,2,"75,329",3rd,win
+871,0.01,2014–15,Leicester City,H,3–1,2,"75,329",3rd,win
+872,0,2014–15,West Ham United,A,1–1,0,"34,499",4th,draw
+872,0.01,2014–15,West Ham United,A,1–1,0,"34,499",4th,draw
+873,0,2014–15,Burnley,H,3–1,2,"75,356",3rd,win
+873,0.01,2014–15,Burnley,H,3–1,2,"75,356",3rd,win
+874,0,2014–15,Swansea City,A,1–2,1,"20,809",4th,lose
+874,0.01,2014–15,Swansea City,A,1–2,1,"20,809",4th,lose
+875,0,2014–15,Sunderland,H,2–0,2,"75,344",3rd,win
+875,0.01,2014–15,Sunderland,H,2–0,2,"75,344",3rd,win
+876,0,2014–15,Newcastle United,A,1–0,1,"49,801",4th,win
+876,0.01,2014–15,Newcastle United,A,1–0,1,"49,801",4th,win
+877,0,2014–15,Tottenham Hotspur,H,3–0,3,"75,112",4th,win
+877,0.01,2014–15,Tottenham Hotspur,H,3–0,3,"75,112",4th,win
+878,0,2014–15,Liverpool,A,2–1,1,"44,405",4th,win
+878,0.01,2014–15,Liverpool,A,2–1,1,"44,405",4th,win
+879,0,2014–15,Aston Villa,H,3–1,2,"75,397",3rd,win
+879,0.01,2014–15,Aston Villa,H,3–1,2,"75,397",3rd,win
+880,0,2014–15,Manchester City,H,4–2,2,"75,313",3rd,win
+880,0.01,2014–15,Manchester City,H,4–2,2,"75,313",3rd,win
+881,0,2014–15,Chelsea,A,0–1,1,"41,422",3rd,lose
+881,0.01,2014–15,Chelsea,A,0–1,1,"41,422",3rd,lose
+882,0,2014–15,Everton,A,0–3,3,"39,497",4th,lose
+882,0.01,2014–15,Everton,A,0–3,3,"39,497",4th,lose
+883,0,2014–15,West Bromwich Albion,H,0–1,1,"75,454",4th,lose
+883,0.01,2014–15,West Bromwich Albion,H,0–1,1,"75,454",4th,lose
+884,0,2014–15,Crystal Palace,A,2–1,1,"25,009",4th,win
+884,0.01,2014–15,Crystal Palace,A,2–1,1,"25,009",4th,win
+885,0,2014–15,Arsenal,H,1–1,0,"75,323",4th,draw
+885,0.01,2014–15,Arsenal,H,1–1,0,"75,323",4th,draw
+886,0,2014–15,Hull City,A,0–0,0,"24,745",4th,draw
+886,0.01,2014–15,Hull City,A,0–0,0,"24,745",4th,draw
+887,0,2015–16,Tottenham Hotspur,H,1–0,1,"75,261",4th[8],win
+887,0.01,2015–16,Tottenham Hotspur,H,1–0,1,"75,261",4th[8],win
+888,0,2015–16,Aston Villa,A,1–0,1,"42,200",1st[9],win
+888,0.01,2015–16,Aston Villa,A,1–0,1,"42,200",1st[9],win
+889,0,2015–16,Newcastle United,H,0–0,0,"75,354",2nd[11],draw
+889,0.01,2015–16,Newcastle United,H,0–0,0,"75,354",2nd[11],draw
+890,0,2015–16,Swansea City,A,1–2,1,"20,828",5th[12],lose
+890,0.01,2015–16,Swansea City,A,1–2,1,"20,828",5th[12],lose
+891,0,2015–16,Liverpool,H,3–1,2,"75,347",2nd[13],win
+891,0.01,2015–16,Liverpool,H,3–1,2,"75,347",2nd[13],win
+892,0,2015–16,Southampton,A,3–2,1,"31,588",2nd[14],win
+892,0.01,2015–16,Southampton,A,3–2,1,"31,588",2nd[14],win
+893,0,2015–16,Sunderland,H,3–0,3,"75,328",1st[15],win
+893,0.01,2015–16,Sunderland,H,3–0,3,"75,328",1st[15],win
+894,0,2015–16,Arsenal,A,0–3,3,"60,084",3rd[16],lose
+894,0.01,2015–16,Arsenal,A,0–3,3,"60,084",3rd[16],lose
+895,0,2015–16,Everton,A,3–0,3,"39,553",2nd,win
+895,0.01,2015–16,Everton,A,3–0,3,"39,553",2nd,win
+896,0,2015–16,Manchester City,H,0–0,0,"75,329",4th,draw
+896,0.01,2015–16,Manchester City,H,0–0,0,"75,329",4th,draw
+897,0,2015–16,Crystal Palace,A,0–0,0,"24,854",4th,draw
+897,0.01,2015–16,Crystal Palace,A,0–0,0,"24,854",4th,draw
+898,0,2015–16,West Bromwich Albion,H,2–0,2,"75,410",4th,win
+898,0.01,2015–16,West Bromwich Albion,H,2–0,2,"75,410",4th,win
+899,0,2015–16,Watford,A,2–1,1,"20,702",2nd,win
+899,0.01,2015–16,Watford,A,2–1,1,"20,702",2nd,win
+900,0,2015–16,Leicester City,A,1–1,0,"32,115",3rd,draw
+900,0.01,2015–16,Leicester City,A,1–1,0,"32,115",3rd,draw
+901,0,2015–16,West Ham United,H,0–0,0,"75,350",4th,draw
+901,0.01,2015–16,West Ham United,H,0–0,0,"75,350",4th,draw
+902,0,2015–16,AFC Bournemouth,A,1–2,1,"11,334",4th,lose
+902,0.01,2015–16,AFC Bournemouth,A,1–2,1,"11,334",4th,lose
+903,0,2015–16,Norwich City,H,1–2,1,"75,320",5th,lose
+903,0.01,2015–16,Norwich City,H,1–2,1,"75,320",5th,lose
+904,0,2015–16,Stoke City,A,0–2,2,"27,426",6th,lose
+904,0.01,2015–16,Stoke City,A,0–2,2,"27,426",6th,lose
+905,0,2015–16,Chelsea,H,0–0,0,"75,275",6th,draw
+905,0.01,2015–16,Chelsea,H,0–0,0,"75,275",6th,draw
+906,0,2015–16,Swansea City,H,2–1,1,"75,415",5th,win
+906,0.01,2015–16,Swansea City,H,2–1,1,"75,415",5th,win
+907,0,2015–16,Newcastle United,A,3–3,0,"49,673",6th,draw
+907,0.01,2015–16,Newcastle United,A,3–3,0,"49,673",6th,draw
+908,0,2015–16,Liverpool,A,1–0,1,"43,865",5th,win
+908,0.01,2015–16,Liverpool,A,1–0,1,"43,865",5th,win
+909,0,2015–16,Southampton,H,0–1,1,"75,408",5th,lose
+909,0.01,2015–16,Southampton,H,0–1,1,"75,408",5th,lose
+910,0,2015–16,Stoke City,H,3–0,3,"75,234",5th,win
+910,0.01,2015–16,Stoke City,H,3–0,3,"75,234",5th,win
+911,0,2015–16,Chelsea,A,1–1,0,"41,434",5th,draw
+911,0.01,2015–16,Chelsea,A,1–1,0,"41,434",5th,draw
+912,0,2015–16,Sunderland,A,1–2,1,"41,687",5th,lose
+912,0.01,2015–16,Sunderland,A,1–2,1,"41,687",5th,lose
+913,0,2015–16,Arsenal,H,3–2,1,"75,329",5th,win
+913,0.01,2015–16,Arsenal,H,3–2,1,"75,329",5th,win
+914,0,2015–16,Watford,H,1–0,1,"75,282",5th,win
+914,0.01,2015–16,Watford,H,1–0,1,"75,282",5th,win
+915,0,2015–16,West Bromwich Albion,A,0–1,1,"24,878",6th,lose
+915,0.01,2015–16,West Bromwich Albion,A,0–1,1,"24,878",6th,lose
+916,0,2015–16,Manchester City,A,1–0,1,"54,557",6th,win
+916,0.01,2015–16,Manchester City,A,1–0,1,"54,557",6th,win
+917,0,2015–16,Everton,H,1–0,1,"75,341",5th,win
+917,0.01,2015–16,Everton,H,1–0,1,"75,341",5th,win
+918,0,2015–16,Tottenham Hotspur,A,0–3,3,"35,761",5th,lose
+918,0.01,2015–16,Tottenham Hotspur,A,0–3,3,"35,761",5th,lose
+919,0,2015–16,Aston Villa,H,1–0,1,"75,411",5th,win
+919,0.01,2015–16,Aston Villa,H,1–0,1,"75,411",5th,win
+920,0,2015–16,Crystal Palace,H,2–0,2,"75,277",5th,win
+920,0.01,2015–16,Crystal Palace,H,2–0,2,"75,277",5th,win
+921,0,2015–16,Leicester City,H,1–1,0,"75,275",5th,draw
+921,0.01,2015–16,Leicester City,H,1–1,0,"75,275",5th,draw
+922,0,2015–16,Norwich City,A,1–0,1,"27,132",5th,win
+922,0.01,2015–16,Norwich City,A,1–0,1,"27,132",5th,win
+923,0,2015–16,West Ham United,A,2–3,1,"34,602",5th,lose
+923,0.01,2015–16,West Ham United,A,2–3,1,"34,602",5th,lose
+924,0,2015–16,AFC Bournemouth,H,3–1,2,"74,363",5th,win
+924,0.01,2015–16,AFC Bournemouth,H,3–1,2,"74,363",5th,win
+925,0,2016–17,Bournemouth,A,3–1,2,"11,355",1st,win
+925,0.01,2016–17,Bournemouth,A,3–1,2,"11,355",1st,win
+926,0,2016–17,Southampton,H,2–0,2,"75,326",1st,win
+926,0.01,2016–17,Southampton,H,2–0,2,"75,326",1st,win
+927,0,2016–17,Hull City,A,1–0,1,"24,560",2nd,win
+927,0.01,2016–17,Hull City,A,1–0,1,"24,560",2nd,win
+928,0,2016–17,Manchester City,H,1–2,1,"75,272",3rd,lose
+928,0.01,2016–17,Manchester City,H,1–2,1,"75,272",3rd,lose
+929,0,2016–17,Watford,A,1–3,2,"21,118",7th,lose
+929,0.01,2016–17,Watford,A,1–3,2,"21,118",7th,lose
+930,0,2016–17,Leicester City,H,4–1,3,"75,256",6th,win
+930,0.01,2016–17,Leicester City,H,4–1,3,"75,256",6th,win
+931,0,2016–17,Stoke City,H,1–1,0,"75,251",6th,draw
+931,0.01,2016–17,Stoke City,H,1–1,0,"75,251",6th,draw
+932,0,2016–17,Liverpool,A,0–0,0,"52,769",7th,draw
+932,0.01,2016–17,Liverpool,A,0–0,0,"52,769",7th,draw
+933,0,2016–17,Chelsea,A,0–4,4,"41,424",7th,lose
+933,0.01,2016–17,Chelsea,A,0–4,4,"41,424",7th,lose
+934,0,2016–17,Burnley,H,0–0,0,"75,325",8th,draw
+934,0.01,2016–17,Burnley,H,0–0,0,"75,325",8th,draw
+935,0,2016–17,Swansea City,A,3–1,2,"20,938",6th,win
+935,0.01,2016–17,Swansea City,A,3–1,2,"20,938",6th,win
+936,0,2016–17,Arsenal,H,1–1,0,"75,264",6th,draw
+936,0.01,2016–17,Arsenal,H,1–1,0,"75,264",6th,draw
+937,0,2016–17,West Ham United,H,1–1,0,"75,314",6th,draw
+937,0.01,2016–17,West Ham United,H,1–1,0,"75,314",6th,draw
+938,0,2016–17,Everton,A,1–1,0,"39,550",6th,draw
+938,0.01,2016–17,Everton,A,1–1,0,"39,550",6th,draw
+939,0,2016–17,Tottenham Hotspur,H,1–0,1,"75,271",6th,win
+939,0.01,2016–17,Tottenham Hotspur,H,1–0,1,"75,271",6th,win
+940,0,2016–17,Crystal Palace,A,2–1,1,"25,547",6th,win
+940,0.01,2016–17,Crystal Palace,A,2–1,1,"25,547",6th,win
+941,0,2016–17,West Bromwich Albion,A,2–0,2,"26,308",6th,win
+941,0.01,2016–17,West Bromwich Albion,A,2–0,2,"26,308",6th,win
+942,0,2016–17,Sunderland,H,3–1,2,"75,325",6th,win
+942,0.01,2016–17,Sunderland,H,3–1,2,"75,325",6th,win
+943,0,2016–17,Middlesbrough,H,2–1,1,"75,314",6th,win
+943,0.01,2016–17,Middlesbrough,H,2–1,1,"75,314",6th,win
+944,0,2016–17,West Ham United,A,2–0,2,"56,996",6th,win
+944,0.01,2016–17,West Ham United,A,2–0,2,"56,996",6th,win
+945,0,2016–17,Liverpool,H,1–1,0,"75,276",6th,draw
+945,0.01,2016–17,Liverpool,H,1–1,0,"75,276",6th,draw
+946,0,2016–17,Stoke City,A,1–1,0,"27,423",6th,draw
+946,0.01,2016–17,Stoke City,A,1–1,0,"27,423",6th,draw
+947,0,2016–17,Hull City,H,0–0,0,"75,297",6th,draw
+947,0.01,2016–17,Hull City,H,0–0,0,"75,297",6th,draw
+948,0,2016–17,Leicester City,A,3–0,3,"32,072",6th,win
+948,0.01,2016–17,Leicester City,A,3–0,3,"32,072",6th,win
+949,0,2016–17,Watford,H,2–0,2,"75,301",6th,win
+949,0.01,2016–17,Watford,H,2–0,2,"75,301",6th,win
+950,0,2016–17,Bournemouth,H,1–1,0,"75,245",6th,draw
+950,0.01,2016–17,Bournemouth,H,1–1,0,"75,245",6th,draw
+951,0,2016–17,Middlesbrough,A,3–1,2,"32,689",5th,win
+951,0.01,2016–17,Middlesbrough,A,3–1,2,"32,689",5th,win
+952,0,2016–17,West Bromwich Albion,H,0–0,0,"75,397",5th,draw
+952,0.01,2016–17,West Bromwich Albion,H,0–0,0,"75,397",5th,draw
+953,0,2016–17,Everton,H,1–1,0,"75,272",6th,draw
+953,0.01,2016–17,Everton,H,1–1,0,"75,272",6th,draw
+954,0,2016–17,Sunderland,A,3–0,3,"43,779",5th,win
+954,0.01,2016–17,Sunderland,A,3–0,3,"43,779",5th,win
+955,0,2016–17,Chelsea,H,2–0,2,"75,272",5th,win
+955,0.01,2016–17,Chelsea,H,2–0,2,"75,272",5th,win
+956,0,2016–17,Burnley,A,2–0,2,"21,870",5th,win
+956,0.01,2016–17,Burnley,A,2–0,2,"21,870",5th,win
+957,0,2016–17,Manchester City,A,0–0,0,"54,176",5th,draw
+957,0.01,2016–17,Manchester City,A,0–0,0,"54,176",5th,draw
+958,0,2016–17,Swansea City,H,1–1,0,"75,271",5th,draw
+958,0.01,2016–17,Swansea City,H,1–1,0,"75,271",5th,draw
+959,0,2016–17,Arsenal,A,0–2,2,"60,055",5th,lose
+959,0.01,2016–17,Arsenal,A,0–2,2,"60,055",5th,lose
+960,0,2016–17,Tottenham Hotspur,A,1–2,1,"31,848",6th,lose
+960,0.01,2016–17,Tottenham Hotspur,A,1–2,1,"31,848",6th,lose
+961,0,2016–17,Southampton,A,0–0,0,"31,425",6th,draw
+961,0.01,2016–17,Southampton,A,0–0,0,"31,425",6th,draw
+962,0,2016–17,Crystal Palace,H,2–0,2,"75,254",6th,win
+962,0.01,2016–17,Crystal Palace,H,2–0,2,"75,254",6th,win
+963,0,2017–18,West Ham United,H,4–0,4,"74,928",1st,win
+963,0.01,2017–18,West Ham United,H,4–0,4,"74,928",1st,win
+964,0,2017–18,Swansea City,A,4–0,4,"20,862",1st,win
+964,0.01,2017–18,Swansea City,A,4–0,4,"20,862",1st,win
+965,0,2017–18,Leicester City,H,2–0,2,"75,021",1st,win
+965,0.01,2017–18,Leicester City,H,2–0,2,"75,021",1st,win
+966,0,2017–18,Stoke City,A,2–2,0,"29,320",1st,draw
+966,0.01,2017–18,Stoke City,A,2–2,0,"29,320",1st,draw
+967,0,2017–18,Everton,H,4–0,4,"75,042",2nd,win
+967,0.01,2017–18,Everton,H,4–0,4,"75,042",2nd,win
+968,0,2017–18,Southampton,A,1–0,1,"31,930",2nd,win
+968,0.01,2017–18,Southampton,A,1–0,1,"31,930",2nd,win
+969,0,2017–18,Crystal Palace,H,4–0,4,"75,118",2nd,win
+969,0.01,2017–18,Crystal Palace,H,4–0,4,"75,118",2nd,win
+970,0,2017–18,Liverpool,A,0–0,0,"52,912",2nd,draw
+970,0.01,2017–18,Liverpool,A,0–0,0,"52,912",2nd,draw
+971,0,2017–18,Huddersfield Town,A,1–2,1,"24,426",2nd,lose
+971,0.01,2017–18,Huddersfield Town,A,1–2,1,"24,426",2nd,lose
+972,0,2017–18,Tottenham Hotspur,H,1–0,1,"75,034",2nd,win
+972,0.01,2017–18,Tottenham Hotspur,H,1–0,1,"75,034",2nd,win
+973,0,2017–18,Chelsea,A,0–1,1,"41,615",2nd,lose
+973,0.01,2017–18,Chelsea,A,0–1,1,"41,615",2nd,lose
+974,0,2017–18,Newcastle United,H,4–1,3,"75,035",2nd,win
+974,0.01,2017–18,Newcastle United,H,4–1,3,"75,035",2nd,win
+975,0,2017–18,Brighton & Hove Albion,H,1–0,1,"75,018",2nd,win
+975,0.01,2017–18,Brighton & Hove Albion,H,1–0,1,"75,018",2nd,win
+976,0,2017–18,Watford,A,4–2,2,"20,552",2nd,win
+976,0.01,2017–18,Watford,A,4–2,2,"20,552",2nd,win
+977,0,2017–18,Arsenal,A,3–1,2,"59,547",2nd,win
+977,0.01,2017–18,Arsenal,A,3–1,2,"59,547",2nd,win
+978,0,2017–18,Manchester City,H,1–2,1,"74,847",2nd,lose
+978,0.01,2017–18,Manchester City,H,1–2,1,"74,847",2nd,lose
+979,0,2017–18,Bournemouth,H,1–0,1,"74,798",2nd,win
+979,0.01,2017–18,Bournemouth,H,1–0,1,"74,798",2nd,win
+980,0,2017–18,West Bromwich Albion,A,2–1,1,"24,782",2nd,win
+980,0.01,2017–18,West Bromwich Albion,A,2–1,1,"24,782",2nd,win
+981,0,2017–18,Leicester City,A,2–2,0,"32,202",2nd,draw
+981,0.01,2017–18,Leicester City,A,2–2,0,"32,202",2nd,draw
+982,0,2017–18,Burnley,H,2–2,0,"75,046",2nd,draw
+982,0.01,2017–18,Burnley,H,2–2,0,"75,046",2nd,draw
+983,0,2017–18,Southampton,H,0–0,0,"75,051",3rd,draw
+983,0.01,2017–18,Southampton,H,0–0,0,"75,051",3rd,draw
+984,0,2017–18,Everton,A,2–0,2,"39,188",2nd,win
+984,0.01,2017–18,Everton,A,2–0,2,"39,188",2nd,win
+985,0,2017–18,Stoke City,H,3–0,3,"74,726",2nd,win
+985,0.01,2017–18,Stoke City,H,3–0,3,"74,726",2nd,win
+986,0,2017–18,Burnley,A,1–0,1,"21,841",2nd,win
+986,0.01,2017–18,Burnley,A,1–0,1,"21,841",2nd,win
+987,0,2017–18,Tottenham Hotspur,A,0–2,2,"81,978",2nd,lose
+987,0.01,2017–18,Tottenham Hotspur,A,0–2,2,"81,978",2nd,lose
+988,0,2017–18,Huddersfield Town,H,2–0,2,"74,742",2nd,win
+988,0.01,2017–18,Huddersfield Town,H,2–0,2,"74,742",2nd,win
+989,0,2017–18,Newcastle United,A,0–1,1,"52,309",2nd,lose
+989,0.01,2017–18,Newcastle United,A,0–1,1,"52,309",2nd,lose
+990,0,2017–18,Chelsea,H,2–1,1,"75,060",2nd,win
+990,0.01,2017–18,Chelsea,H,2–1,1,"75,060",2nd,win
+991,0,2017–18,Crystal Palace,A,3–2,1,"25,840",2nd,win
+991,0.01,2017–18,Crystal Palace,A,3–2,1,"25,840",2nd,win
+992,0,2017–18,Liverpool,H,2–1,1,"74,855",2nd,win
+992,0.01,2017–18,Liverpool,H,2–1,1,"74,855",2nd,win
+993,0,2017–18,Swansea City,H,2–0,2,"75,038",2nd,win
+993,0.01,2017–18,Swansea City,H,2–0,2,"75,038",2nd,win
+994,0,2017–18,Manchester City,A,3–2,1,"54,259",2nd,win
+994,0.01,2017–18,Manchester City,A,3–2,1,"54,259",2nd,win
+995,0,2017–18,West Bromwich Albion,H,0–1,1,"75,095",2nd,lose
+995,0.01,2017–18,West Bromwich Albion,H,0–1,1,"75,095",2nd,lose
+996,0,2017–18,Bournemouth,A,2–0,2,"10,952",2nd,win
+996,0.01,2017–18,Bournemouth,A,2–0,2,"10,952",2nd,win
+997,0,2017–18,Arsenal,H,2–1,1,"75,035",2nd,win
+997,0.01,2017–18,Arsenal,H,2–1,1,"75,035",2nd,win
+998,0,2017–18,Brighton & Hove Albion,A,0–1,1,"30,611",2nd,lose
+998,0.01,2017–18,Brighton & Hove Albion,A,0–1,1,"30,611",2nd,lose
+999,0,2017–18,West Ham United,A,0–0,0,"56,902",2nd,draw
+999,0.01,2017–18,West Ham United,A,0–0,0,"56,902",2nd,draw
+1000,0,2017–18,Watford,H,1–0,1,"75,049",2nd,win
+1000,0.01,2017–18,Watford,H,1–0,1,"75,049",2nd,win
+1001,0,2018–19,Leicester City,H,2–1,1,"74,439",7th,win
+1001,0.01,2018–19,Leicester City,H,2–1,1,"74,439",7th,win
+1002,0,2018–19,Brighton & Hove Albion,A,2–3,1,"30,592",9th,lose
+1002,0.01,2018–19,Brighton & Hove Albion,A,2–3,1,"30,592",9th,lose
+1003,0,2018–19,Tottenham Hotspur,H,0–3,3,"74,400",13th,lose
+1003,0.01,2018–19,Tottenham Hotspur,H,0–3,3,"74,400",13th,lose
+1004,0,2018–19,Burnley,A,2–0,2,"21,525",10th,win
+1004,0.01,2018–19,Burnley,A,2–0,2,"21,525",10th,win
+1005,0,2018–19,Watford,A,2–1,1,"20,537",8th,win
+1005,0.01,2018–19,Watford,A,2–1,1,"20,537",8th,win
+1006,0,2018–19,Wolverhampton Wanderers,H,1–1,0,"74,489",7th,draw
+1006,0.01,2018–19,Wolverhampton Wanderers,H,1–1,0,"74,489",7th,draw
+1007,0,2018–19,West Ham United,A,1–3,2,"56,938",10th,lose
+1007,0.01,2018–19,West Ham United,A,1–3,2,"56,938",10th,lose
+1008,0,2018–19,Newcastle United,H,3–2,1,"74,519",8th,win
+1008,0.01,2018–19,Newcastle United,H,3–2,1,"74,519",8th,win
+1009,0,2018–19,Chelsea,A,2–2,0,"40,721",10th,draw
+1009,0.01,2018–19,Chelsea,A,2–2,0,"40,721",10th,draw
+1010,0,2018–19,Everton,H,2–1,1,"74,525",8th,win
+1010,0.01,2018–19,Everton,H,2–1,1,"74,525",8th,win
+1011,0,2018–19,Bournemouth,A,2–1,1,"10,792",7th,win
+1011,0.01,2018–19,Bournemouth,A,2–1,1,"10,792",7th,win
+1012,0,2018–19,Manchester City,A,1–3,2,"54,316",8th,lose
+1012,0.01,2018–19,Manchester City,A,1–3,2,"54,316",8th,lose
+1013,0,2018–19,Crystal Palace,H,0–0,0,"74,516",7th,draw
+1013,0.01,2018–19,Crystal Palace,H,0–0,0,"74,516",7th,draw
+1014,0,2018–19,Southampton,A,2–2,0,"30,187",7th,draw
+1014,0.01,2018–19,Southampton,A,2–2,0,"30,187",7th,draw
+1015,0,2018–19,Arsenal,H,2–2,0,"74,507",8th,draw
+1015,0.01,2018–19,Arsenal,H,2–2,0,"74,507",8th,draw
+1016,0,2018–19,Fulham,H,4–1,3,"74,523",6th,win
+1016,0.01,2018–19,Fulham,H,4–1,3,"74,523",6th,win
+1017,0,2018–19,Liverpool,A,1–3,2,"52,908",6th,lose
+1017,0.01,2018–19,Liverpool,A,1–3,2,"52,908",6th,lose
+1018,0,2018–19,Cardiff City,A,5–1,4,"33,028",6th,win
+1018,0.01,2018–19,Cardiff City,A,5–1,4,"33,028",6th,win
+1019,0,2018–19,Huddersfield Town,H,3–1,2,"74,523",6th,win
+1019,0.01,2018–19,Huddersfield Town,H,3–1,2,"74,523",6th,win
+1020,0,2018–19,Bournemouth,H,4–1,3,"74,556",6th,win
+1020,0.01,2018–19,Bournemouth,H,4–1,3,"74,556",6th,win
+1021,0,2018–19,Newcastle United,A,2–0,2,"52,217",6th,win
+1021,0.01,2018–19,Newcastle United,A,2–0,2,"52,217",6th,win
+1022,0,2018–19,Tottenham Hotspur,A,1–0,1,"80,062",6th,win
+1022,0.01,2018–19,Tottenham Hotspur,A,1–0,1,"80,062",6th,win
+1023,0,2018–19,Brighton & Hove Albion,H,2–1,1,"74,532",6th,win
+1023,0.01,2018–19,Brighton & Hove Albion,H,2–1,1,"74,532",6th,win
+1024,0,2018–19,Burnley,H,2–2,0,"74,529",6th,draw
+1024,0.01,2018–19,Burnley,H,2–2,0,"74,529",6th,draw
+1025,0,2018–19,Leicester City,A,1–0,1,"32,148",5th,win
+1025,0.01,2018–19,Leicester City,A,1–0,1,"32,148",5th,win
+1026,0,2018–19,Fulham,A,3–0,3,"25,001",4th,win
+1026,0.01,2018–19,Fulham,A,3–0,3,"25,001",4th,win
+1027,0,2018–19,Liverpool,H,0–0,0,"74,519",5th,draw
+1027,0.01,2018–19,Liverpool,H,0–0,0,"74,519",5th,draw
+1028,0,2018–19,Crystal Palace,A,3–1,2,"25,754",5th,win
+1028,0.01,2018–19,Crystal Palace,A,3–1,2,"25,754",5th,win
+1029,0,2018–19,Southampton,H,3–2,1,"74,459",4th,win
+1029,0.01,2018–19,Southampton,H,3–2,1,"74,459",4th,win
+1030,0,2018–19,Arsenal,A,0–2,2,"60,000",5th,lose
+1030,0.01,2018–19,Arsenal,A,0–2,2,"60,000",5th,lose
+1031,0,2018–19,Watford,H,2–1,1,"74,543",5th,win
+1031,0.01,2018–19,Watford,H,2–1,1,"74,543",5th,win
+1032,0,2018–19,Wolverhampton Wanderers,A,1–2,1,"31,302",6th,lose
+1032,0.01,2018–19,Wolverhampton Wanderers,A,1–2,1,"31,302",6th,lose
+1033,0,2018–19,West Ham United,H,2–1,1,"74,478",6th,win
+1033,0.01,2018–19,West Ham United,H,2–1,1,"74,478",6th,win
+1034,0,2018–19,Everton,A,0–4,4,"39,395",6th,lose
+1034,0.01,2018–19,Everton,A,0–4,4,"39,395",6th,lose
+1035,0,2018–19,Manchester City,H,0–2,2,"74,431",6th,lose
+1035,0.01,2018–19,Manchester City,H,0–2,2,"74,431",6th,lose
+1036,0,2018–19,Chelsea,H,1–1,0,"74,526",6th,draw
+1036,0.01,2018–19,Chelsea,H,1–1,0,"74,526",6th,draw
+1037,0,2018–19,Huddersfield Town,A,1–1,0,"24,263",6th,draw
+1037,0.01,2018–19,Huddersfield Town,A,1–1,0,"24,263",6th,draw
+1038,0,2018–19,Cardiff City,H,0–2,2,"74,457",6th,lose
+1038,0.01,2018–19,Cardiff City,H,0–2,2,"74,457",6th,lose
+1039,0,2019–20,Chelsea,H,4–0,4,"73,620",2nd,win
+1039,0.01,2019–20,Chelsea,H,4–0,4,"73,620",2nd,win
+1040,0,2019–20,Wolverhampton Wanderers,A,1–1,0,"31,314",4th,draw
+1040,0.01,2019–20,Wolverhampton Wanderers,A,1–1,0,"31,314",4th,draw
+1041,0,2019–20,Crystal Palace,H,1–2,1,"73,454",5th,lose
+1041,0.01,2019–20,Crystal Palace,H,1–2,1,"73,454",5th,lose
+1042,0,2019–20,Southampton,A,1–1,0,"30,499",7th,draw
+1042,0.01,2019–20,Southampton,A,1–1,0,"30,499",7th,draw
+1043,0,2019–20,Leicester City,H,1–0,1,"73,689",4th,win
+1043,0.01,2019–20,Leicester City,H,1–0,1,"73,689",4th,win
+1044,0,2019–20,West Ham United,A,0–2,2,"59,936",8th,lose
+1044,0.01,2019–20,West Ham United,A,0–2,2,"59,936",8th,lose
+1045,0,2019–20,Arsenal,H,1–1,0,"73,201",10th,draw
+1045,0.01,2019–20,Arsenal,H,1–1,0,"73,201",10th,draw
+1046,0,2019–20,Newcastle United,A,0–1,1,"51,198",12th,lose
+1046,0.01,2019–20,Newcastle United,A,0–1,1,"51,198",12th,lose
+1047,0,2019–20,Liverpool,H,1–1,0,"73,737",14th,draw
+1047,0.01,2019–20,Liverpool,H,1–1,0,"73,737",14th,draw
+1048,0,2019–20,Norwich City,A,3–1,2,"27,108",7th,win
+1048,0.01,2019–20,Norwich City,A,3–1,2,"27,108",7th,win
+1049,0,2019–20,Bournemouth,A,0–1,1,"10,669",10th,lose
+1049,0.01,2019–20,Bournemouth,A,0–1,1,"10,669",10th,lose
+1050,0,2019–20,Brighton & Hove Albion,H,3–1,2,"73,556",7th,win
+1050,0.01,2019–20,Brighton & Hove Albion,H,3–1,2,"73,556",7th,win
+1051,0,2019–20,Sheffield United,A,3–3,0,"32,024",9th,draw
+1051,0.01,2019–20,Sheffield United,A,3–3,0,"32,024",9th,draw
+1052,0,2019–20,Aston Villa,H,2–2,0,"73,381",9th,draw
+1052,0.01,2019–20,Aston Villa,H,2–2,0,"73,381",9th,draw
+1053,0,2019–20,Tottenham Hotspur,H,2–1,1,"73,252",6th,win
+1053,0.01,2019–20,Tottenham Hotspur,H,2–1,1,"73,252",6th,win
+1054,0,2019–20,Manchester City,A,2–1,1,"54,403",5th,win
+1054,0.01,2019–20,Manchester City,A,2–1,1,"54,403",5th,win
+1055,0,2019–20,Everton,H,1–1,0,"73,328",6th,draw
+1055,0.01,2019–20,Everton,H,1–1,0,"73,328",6th,draw
+1056,0,2019–20,Watford,A,0–2,2,"21,488",8th,lose
+1056,0.01,2019–20,Watford,A,0–2,2,"21,488",8th,lose
+1057,0,2019–20,Newcastle United,H,4–1,3,"73,206",8th,win
+1057,0.01,2019–20,Newcastle United,H,4–1,3,"73,206",8th,win
+1058,0,2019–20,Burnley,A,2–0,2,"21,924",5th,win
+1058,0.01,2019–20,Burnley,A,2–0,2,"21,924",5th,win
+1059,0,2019–20,Arsenal,A,0–2,2,"60,328",5th,lose
+1059,0.01,2019–20,Arsenal,A,0–2,2,"60,328",5th,lose
+1060,0,2019–20,Norwich City,H,4–0,4,"73,271",5th,win
+1060,0.01,2019–20,Norwich City,H,4–0,4,"73,271",5th,win
+1061,0,2019–20,Liverpool,A,0–2,2,"52,916",5th,lose
+1061,0.01,2019–20,Liverpool,A,0–2,2,"52,916",5th,lose
+1062,0,2019–20,Burnley,H,0–2,2,"73,198",5th,lose
+1062,0.01,2019–20,Burnley,H,0–2,2,"73,198",5th,lose
+1063,0,2019–20,Wolverhampton Wanderers,H,0–0,0,"73,363",7th,draw
+1063,0.01,2019–20,Wolverhampton Wanderers,H,0–0,0,"73,363",7th,draw
+1064,0,2019–20,Chelsea,A,2–0,2,"40,504",7th,win
+1064,0.01,2019–20,Chelsea,A,2–0,2,"40,504",7th,win
+1065,0,2019–20,Watford,H,3–0,3,"73,347",5th,win
+1065,0.01,2019–20,Watford,H,3–0,3,"73,347",5th,win
+1066,0,2019–20,Everton,A,1–1,0,"39,374",5th,draw
+1066,0.01,2019–20,Everton,A,1–1,0,"39,374",5th,draw
+1067,0,2019–20,Manchester City,H,2–0,2,"73,288",5th,win
+1067,0.01,2019–20,Manchester City,H,2–0,2,"73,288",5th,win
+1068,0,2019–20,Tottenham Hotspur,A,1–1,0,0,5th,draw
+1068,0.01,2019–20,Tottenham Hotspur,A,1–1,0,0,5th,draw
+1069,0,2019–20,Sheffield United,H,3–0,3,0,5th,win
+1069,0.01,2019–20,Sheffield United,H,3–0,3,0,5th,win
+1070,0,2019–20,Brighton & Hove Albion,A,3–0,3,0,5th,win
+1070,0.01,2019–20,Brighton & Hove Albion,A,3–0,3,0,5th,win
+1071,0,2019–20,Bournemouth,H,5–2,3,0,5th,win
+1071,0.01,2019–20,Bournemouth,H,5–2,3,0,5th,win
+1072,0,2019–20,Aston Villa,A,3–0,3,0,5th,win
+1072,0.01,2019–20,Aston Villa,A,3–0,3,0,5th,win
+1073,0,2019–20,Southampton,H,2–2,0,0,5th,draw
+1073,0.01,2019–20,Southampton,H,2–2,0,0,5th,draw
+1074,0,2019–20,Crystal Palace,A,2–0,2,0,5th,win
+1074,0.01,2019–20,Crystal Palace,A,2–0,2,0,5th,win
+1075,0,2019–20,West Ham United,H,1–1,0,0,3rd,draw
+1075,0.01,2019–20,West Ham United,H,1–1,0,0,3rd,draw
+1076,0,2019–20,Leicester City,A,2–0,2,0,3rd,win
+1076,0.01,2019–20,Leicester City,A,2–0,2,0,3rd,win
