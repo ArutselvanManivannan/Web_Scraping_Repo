@@ -6,6 +6,6 @@ The Visualization is done using **Tableau**
 
 [Fergie Time - Manchester United](https://public.tableau.com/profile/arutselvan.m#!/vizhome/FergieTime-ManchesterUnited/AlltimestatsDashboard)
 
-Lanuage : **Python**
+Language : **Python**
 
 Tool : **requests_html**
