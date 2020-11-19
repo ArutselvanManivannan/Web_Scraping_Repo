@@ -11,3 +11,19 @@ The script notifies the status of the game every 5 minutes(300 seconds)
 2. [optional] Change the waiting time in last line. I've set to 300 seconds, change it according to your convenience or simply leave it!
 
 **Tool used - Requests_html**
+
+
+The script returns the following information as a notification
+
+```
+Match Title
+Opponet Score [if applicable]
+Current Score
+
+Status of the game
+
+Striker
+Non-Striker [if applicable]
+
+Bowler
+```
